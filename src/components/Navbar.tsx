@@ -1,13 +1,20 @@
 import { Box, Flex, Image, Link } from "@chakra-ui/react"
 import logo from "../assets/images/logo.png"
-import { NavLink } from "react-router-dom"
+import { NavLink, useNavigate } from "react-router-dom"
 
 export default function Navbar() {
+  const navigate = useNavigate()
+
   return (
     <Box maxW="7xl" mx="auto">
       <Flex justifyContent={"space-between"} alignItems={"center"}>
         <Box>
-          <Image src={logo} alt="logo" />
+          <Image
+            src={logo}
+            alt="logo"
+            onClick={() => navigate("/")}
+            _hover={{ cursor: "pointer" }}
+          />
         </Box>
         <Flex gap={4} fontSize="lg" fontWeight={"semibold"}>
           <Link
