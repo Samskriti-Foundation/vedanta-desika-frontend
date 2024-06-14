@@ -1,0 +1,64 @@
+{
+    "name": "Works of Vedanta Desika",
+    "children": [
+      {
+        "name": "Sanskrit",
+        "children": [
+          {
+            "name": "Stotra",
+            "children": [
+              { "name": "Hayagriva-Stotra" },
+              { "name": "Goda Stuti" },
+              { "name": "Sree Stuti" },
+              { "name": "Bhu-stuti" },
+              { "name": "Varadaraja Panchashat" }
+            ]
+          },
+          {
+            "name": "Vyakhyana",
+            "children": [
+              { "name": "Tattva Tika" },
+              { "name": "Tatparya Chandrika" },
+              { "name": "Stotra-ratna-bhashyam" }
+            ]
+          },
+          {
+            "name": "Kavya",
+            "children": [{ "name": "Yadavabhyudayam" }, { "name": "Hamsa Sandesham" }]
+          },
+          {
+            "name": "Svatantra Shastra Granthas",
+            "children": [
+              { "name": "Tattvamukta-kalapa" },
+              { "name": "Nyaya-siddhanjanam" },
+              { "name": "Nyayaparishuddhi" }
+            ]
+          },
+          {
+            "name": "Nataka (Drama)",
+            "children": [{ "name": "Sankalpa-suryodyam" }]
+          },
+          {
+            "name": "Agama",
+            "children": [{ "name": "Pancharatra-rakha" }]
+          },
+          {
+            "name": "Other works",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Tamil",
+        "children": [{ "name": "Desikaprabandham" }]
+      },
+      {
+        "name": "Manipravala",
+        "children": [
+          { "name": "Rahasyatrayasara" },
+          { "name": "Amritasvadini" },
+          { "name": "Amritaranjini" }
+        ]
+      }
+    ]
+  }

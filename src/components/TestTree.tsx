@@ -4,71 +4,7 @@
 import { useEffect, useRef, useState } from "react"
 import * as d3 from "d3"
 import "./tree.css"
-
-const defaultData = {
-  name: "Works of Vedanta Desika",
-  children: [
-    {
-      name: "Sanskrit",
-      children: [
-        {
-          name: "Stotra",
-          children: [
-            { name: "Hayagriva-Stotra" },
-            { name: "Goda Stuti" },
-            { name: "Sree Stuti" },
-            { name: "Bhu-stuti" },
-            { name: "Varadaraja Panchashat" },
-          ],
-        },
-        {
-          name: "Vyakhyana",
-          children: [
-            { name: "Tattva Tika" },
-            { name: "Tatparya Chandrika" },
-            { name: "Stotra-ratna-bhashyam" },
-          ],
-        },
-        {
-          name: "Kavya",
-          children: [{ name: "Yadavabhyudayam" }, { name: "Hamsa Sandesham" }],
-        },
-        {
-          name: "Svatantra Shastra Granthas",
-          children: [
-            { name: "Tattvamukta-kalapa" },
-            { name: "Nyaya-siddhanjanam" },
-            { name: "Nyayaparishuddhi" },
-          ],
-        },
-        {
-          name: "Nataka (Drama)",
-          children: [{ name: "Sankalpa-suryodyam" }],
-        },
-        {
-          name: "Agama",
-          children: [{ name: "Pancharatra-rakha" }],
-        },
-        {
-          name: "Other works",
-          children: [],
-        },
-      ],
-    },
-    {
-      name: "Tamil",
-      children: [{ name: "Desikaprabandham" }],
-    },
-    {
-      name: "Manipravala",
-      children: [
-        { name: "Rahasyatrayasara" },
-        { name: "Amritasvadini" },
-        { name: "Amritaranjini" },
-      ],
-    },
-  ],
-}
+import defaultData from "../assets/json/works_vedanta_desika.json"
 
 export default function TestTree() {
   const svgRef = useRef(null)
@@ -146,7 +82,10 @@ export default function TestTree() {
 
       nodeEnter
         .append("a")
-        .attr("href", (d) => `/info/${d.data.name.replace(/\s+/g, "-").toLowerCase()}`)
+        .attr(
+          "href",
+          (d) => `/info/${d.data.name.replace(/\s+/g, "-").toLowerCase()}`
+        )
         .append("text")
         .attr("dy", ".35em")
         .attr("x", (d) => (d.children || d._children ? -13 : 13))
