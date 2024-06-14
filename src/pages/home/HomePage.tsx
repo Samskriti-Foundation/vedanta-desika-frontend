@@ -1,14 +1,12 @@
-import Header from "../../components/Header";
-import Navbar from "../../components/Navbar";
-import TestTree from "../../components/TestTree";
-import BaseLayout from "../../layouts/BaseLayout";
+import Header from "../../components/Header"
+import TestTree from "../../components/TestTree"
+import BaseLayout from "../../layouts/BaseLayout"
 
 export default function HomePage() {
   return (
     <BaseLayout>
-      <Navbar/>
-      <Header/>
-      <TestTree/>
+      <Header />
+      <TestTree />
     </BaseLayout>
   )
 }

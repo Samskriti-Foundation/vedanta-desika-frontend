@@ -5,9 +5,9 @@ import { NavLink } from "react-router-dom"
 export default function Navbar() {
   return (
     <Box maxW="7xl" mx="auto">
-      <Flex justifyContent={"space-between"} p={4} alignItems={"center"}>
+      <Flex justifyContent={"space-between"} alignItems={"center"}>
         <Box>
-          <Image src={logo} />
+          <Image src={logo} alt="logo" />
         </Box>
         <Flex gap={4} fontSize="lg" fontWeight={"semibold"}>
           <Link
