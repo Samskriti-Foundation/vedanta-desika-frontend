@@ -21,6 +21,9 @@ export default function InfoTab({
   englishDiacritics,
   kannada,
   audio,
+  selectedTab,
+  setSelectedTab,
+  options,
 }: {
   sanskrit: string
   englishTransliteration: string
@@ -28,6 +31,12 @@ export default function InfoTab({
   englishDiacritics: string
   kannada: string
   audio: string
+  selectedTab: number
+  setSelectedTab: ({ value, label }: { value: number; label: string }) => void
+  options: {
+    value: number
+    label: string
+  }[]
 }) {
   return (
     <Tabs
@@ -37,6 +46,8 @@ export default function InfoTab({
       p="4"
       rounded="md"
       maxW={"4xl"}
+      index={selectedTab}
+      onChange={(index) => setSelectedTab(options[index])}
     >
       <TabList>
         <Tab>Sanskrit</Tab>

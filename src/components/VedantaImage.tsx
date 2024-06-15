@@ -19,7 +19,7 @@ export default function VedantaImage() {
         maxW={"400px"}
         maxH={"500px"}
         right={"10"}
-        zIndex={2}
+        zIndex={10}
         opacity={"0.57"}
       />
       <Image
@@ -30,7 +30,7 @@ export default function VedantaImage() {
         top={"122px"}
         right={"67px"}
         maxW={"440px"}
-        zIndex={1}
+        zIndex={9}
         opacity={"0.13"}
       />
     </Box>

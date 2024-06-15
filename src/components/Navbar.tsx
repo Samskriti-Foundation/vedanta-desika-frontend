@@ -6,8 +6,13 @@ export default function Navbar() {
   const navigate = useNavigate()
 
   return (
-    <Box maxW="7xl" mx="auto">
-      <Flex justifyContent={"space-between"} alignItems={"center"}>
+    <Box bgGradient="linear(to-r, #FFBBA4 27%, #FFECCE 100%)">
+      <Flex
+        justifyContent={"space-between"}
+        alignItems={"center"}
+        maxW="7xl"
+        mx="auto"
+      >
         <Box>
           <Image
             src={logo}
