@@ -7,7 +7,7 @@ export default function App() {
   return (
     <Routes>
       <Route path="/" element={<HomePage />} />
-      <Route path="/info/:page_id" element={<InfoPage />} />
+      <Route path="/info/:pageName" element={<InfoPage />} />
       <Route path="/about" element={<AboutPage />} />
     </Routes>
   )
