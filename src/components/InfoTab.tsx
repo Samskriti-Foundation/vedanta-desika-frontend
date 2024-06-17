@@ -21,10 +21,11 @@ export default function InfoTab({
   text: string
   missing: string
 }) {
+  console.log(typeof text)
   return (
     <Box
       bg="white"
-      w={"400px"}
+      w={"700px"}
       p={"4"}
       borderRadius={"md"}
       textAlign={"center"}

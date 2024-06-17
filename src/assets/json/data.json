@@ -1,319 +1,443 @@
 [
   {
-    "title": "goda-stuti",
+    "title": "Goda-stuti",
     "names": {
-      "english": "godāstutiḥ | Godha Sthuthi",
-      "sanskrit": "गोदास्तुतिः",
-      "kannada": "ಗೋದಾಸ್ತುತಿಃ"
+      "roman_diacritics": "godāstutiḥ | Goda Stuti",
+      "devanagari": "गोदास्तुतिः",
+      "kannada": "ಗೋದಾಸ್ತುತಿಃ",
+      "telugu": "telugu title",
+      "tamil": "Tamil title"
     },
     "texts": [
       {
-        "english": "śrīviṣṇucittakulanandanakalpavallīṃ\n     śrīraṅgarājaharicandanayogadṛśyām .\nsākṣātkṣamāṃ karuṇayā kamalāmivānyāṃ\n     godāmananyaśaraṇaḥ śaraṇaṃ prapadye .. 1..",
-        "sanskrit": "श्रीविष्णुचित्तकुलनन्दनकल्पवल्लीं\n     श्रीरङ्गराजहरिचन्दनयोगदृश्याम् ।\nसाक्षात्क्षमां करुणया कमलामिवान्यां\n     गोदामनन्यशरणः शरणं प्रपद्ये ॥ १॥",
-        "kannada": "ಶ್ರೀವಿಷ್ಣುಚಿತ್ತಕುಲನಂದನಕಲ್ಪವಲ್ಲೀಂ\n     ಶ್ರೀರಂಗರಾಜಹರಿಚಂದನಯೋಗದೃಶ್ಯಾಂ .\nಸಾಕ್ಷಾತ್ಕ್ಷಮಾಂ ಕರುಣಯಾ ಕಮಲಾಮಿವಾನ್ಯಾಂ\n     ಗೋದಾಮನನ್ಯಶರಣಃ ಶರಣಂ ಪ್ರಪದ್ಯೇ .. ೧.."
+        "roman_diacritics": "śrīviṣṇucittakulanandanakalpavallīṃ\n     śrīraṅgarājaharicandanayogadṛśyām .\nsākṣātkṣamāṃ karuṇayā kamalāmivānyāṃ\n     godāmananyaśaraṇaḥ śaraṇaṃ prapadye .. 1..",
+        "devanagari": "श्रीविष्णुचित्तकुलनन्दनकल्पवल्लीं\n     श्रीरङ्गराजहरिचन्दनयोगदृश्याम् ।\nसाक्षात्क्षमां करुणया कमलामिवान्यां\n     गोदामनन्यशरणः शरणं प्रपद्ये ॥ १॥",
+        "kannada": "ಶ್ರೀವಿಷ್ಣುಚಿತ್ತಕುಲನಂದನಕಲ್ಪವಲ್ಲೀಂ\n     ಶ್ರೀರಂಗರಾಜಹರಿಚಂದನಯೋಗದೃಶ್ಯಾಂ .\nಸಾಕ್ಷಾತ್ಕ್ಷಮಾಂ ಕರುಣಯಾ ಕಮಲಾಮಿವಾನ್ಯಾಂ\n     ಗೋದಾಮನನ್ಯಶರಣಃ ಶರಣಂ ಪ್ರಪದ್ಯೇ .. ೧..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "vaideśikaḥ śrutigirāmapi bhūyasīnāṃ\n     varṇeṣu māti mahimā na hi mādṛśāṃ te .\nitthaṃ vidantamapi māṃ sahasaiva gode\n     maunadruho mukharayanti guṇāstvadīyāḥ .. 2..",
-        "sanskrit": "वैदेशिकः श्रुतिगिरामपि भूयसीनां\n     वर्णेषु माति महिमा न हि मादृशां ते ।\nइत्थं विदन्तमपि मां सहसैव गोदे\n     मौनद्रुहो मुखरयन्ति गुणास्त्वदीयाः ॥ २॥",
-        "kannada": "ವೈದೇಶಿಕಃ ಶ್ರುತಿಗಿರಾಮಪಿ ಭೂಯಸೀನಾಂ\n     ವರ್ಣೇಷು ಮಾತಿ ಮಹಿಮಾ ನ ಹಿ ಮಾದೃಶಾಂ ತೇ .\nಇತ್ಥಂ ವಿದಂತಮಪಿ ಮಾಂ ಸಹಸೈವ ಗೋದೇ\n     ಮೌನದ್ರುಹೋ ಮುಖರಯಂತಿ ಗುಣಾಸ್ತ್ವದೀಯಾಃ .. ೨.."
+        "roman_diacritics": "vaideśikaḥ śrutigirāmapi bhūyasīnāṃ\n     varṇeṣu māti mahimā na hi mādṛśāṃ te .\nitthaṃ vidantamapi māṃ sahasaiva gode\n     maunadruho mukharayanti guṇāstvadīyāḥ .. 2..",
+        "devanagari": "वैदेशिकः श्रुतिगिरामपि भूयसीनां\n     वर्णेषु माति महिमा न हि मादृशां ते ।\nइत्थं विदन्तमपि मां सहसैव गोदे\n     मौनद्रुहो मुखरयन्ति गुणास्त्वदीयाः ॥ २॥",
+        "kannada": "ವೈದೇಶಿಕಃ ಶ್ರುತಿಗಿರಾಮಪಿ ಭೂಯಸೀನಾಂ\n     ವರ್ಣೇಷು ಮಾತಿ ಮಹಿಮಾ ನ ಹಿ ಮಾದೃಶಾಂ ತೇ .\nಇತ್ಥಂ ವಿದಂತಮಪಿ ಮಾಂ ಸಹಸೈವ ಗೋದೇ\n     ಮೌನದ್ರುಹೋ ಮುಖರಯಂತಿ ಗುಣಾಸ್ತ್ವದೀಯಾಃ .. ೨..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "tvatpreyasaḥ śravaṇayoramṛtāyamānāṃ\n     tulyāṃ tvadīyamaṇinūpuraśiñjitānām .\ngode tvameva janani tvadabhiṣṭavārhāṃ\n     vācaṃ prasannamadhurāṃ mama saṃvidhehi .. 3..",
-        "sanskrit": "त्वत्प्रेयसः श्रवणयोरमृतायमानां\n     तुल्यां त्वदीयमणिनूपुरशिञ्जितानाम् ।\nगोदे त्वमेव जननि त्वदभिष्टवार्हां\n     वाचं प्रसन्नमधुरां मम संविधेहि ॥ ३॥",
-        "kannada": "ತ್ವತ್ಪ್ರೇಯಸಃ ಶ್ರವಣಯೋರಮೃತಾಯಮಾನಾಂ\n     ತುಲ್ಯಾಂ ತ್ವದೀಯಮಣಿನೂಪುರಶಿಂಜಿತಾನಾಂ .\nಗೋದೇ ತ್ವಮೇವ ಜನನಿ ತ್ವದಭಿಷ್ಟವಾರ್ಹಾಂ\n     ವಾಚಂ ಪ್ರಸನ್ನಮಧುರಾಂ ಮಮ ಸಂವಿಧೇಹಿ .. ೩.."
+        "roman_diacritics": "tvatpreyasaḥ śravaṇayoramṛtāyamānāṃ\n     tulyāṃ tvadīyamaṇinūpuraśiñjitānām .\ngode tvameva janani tvadabhiṣṭavārhāṃ\n     vācaṃ prasannamadhurāṃ mama saṃvidhehi .. 3..",
+        "devanagari": "त्वत्प्रेयसः श्रवणयोरमृतायमानां\n     तुल्यां त्वदीयमणिनूपुरशिञ्जितानाम् ।\nगोदे त्वमेव जननि त्वदभिष्टवार्हां\n     वाचं प्रसन्नमधुरां मम संविधेहि ॥ ३॥",
+        "kannada": "ತ್ವತ್ಪ್ರೇಯಸಃ ಶ್ರವಣಯೋರಮೃತಾಯಮಾನಾಂ\n     ತುಲ್ಯಾಂ ತ್ವದೀಯಮಣಿನೂಪುರಶಿಂಜಿತಾನಾಂ .\nಗೋದೇ ತ್ವಮೇವ ಜನನಿ ತ್ವದಭಿಷ್ಟವಾರ್ಹಾಂ\n     ವಾಚಂ ಪ್ರಸನ್ನಮಧುರಾಂ ಮಮ ಸಂವಿಧೇಹಿ .. ೩..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "kṛṣṇānvayena dadhatīṃ yamunānubhāvaṃ\n     tīrthairyathāvadavagāhya sarasvatīṃ te .\ngode vikasvara dhiyāṃ bhavatī kaṭākṣāt\n     vācaḥ sphuranti makarandamucaḥ kavīnām .. 4..",
-        "sanskrit": "कृष्णान्वयेन दधतीं यमुनानुभावं\n     तीर्थैर्यथावदवगाह्य सरस्वतीं ते ।\nगोदे विकस्वर धियां भवती कटाक्षात्\n     वाचः स्फुरन्ति मकरन्दमुचः कवीनाम् ॥ ४॥",
-        "kannada": "ಕೃಷ್ಣಾನ್ವಯೇನ ದಧತೀಂ ಯಮುನಾನುಭಾವಂ\n     ತೀರ್ಥೈರ್ಯಥಾವದವಗಾಹ್ಯ ಸರಸ್ವತೀಂ ತೇ .\nಗೋದೇ ವಿಕಸ್ವರ ಧಿಯಾಂ ಭವತೀ ಕಟಾಕ್ಷಾತ್\n     ವಾಚಃ ಸ್ಫುರಂತಿ ಮಕರಂದಮುಚಃ ಕವೀನಾಂ .. ೪.."
+        "roman_diacritics": "kṛṣṇānvayena dadhatīṃ yamunānubhāvaṃ\n     tīrthairyathāvadavagāhya sarasvatīṃ te .\ngode vikasvara dhiyāṃ bhavatī kaṭākṣāt\n     vācaḥ sphuranti makarandamucaḥ kavīnām .. 4..",
+        "devanagari": "कृष्णान्वयेन दधतीं यमुनानुभावं\n     तीर्थैर्यथावदवगाह्य सरस्वतीं ते ।\nगोदे विकस्वर धियां भवती कटाक्षात्\n     वाचः स्फुरन्ति मकरन्दमुचः कवीनाम् ॥ ४॥",
+        "kannada": "ಕೃಷ್ಣಾನ್ವಯೇನ ದಧತೀಂ ಯಮುನಾನುಭಾವಂ\n     ತೀರ್ಥೈರ್ಯಥಾವದವಗಾಹ್ಯ ಸರಸ್ವತೀಂ ತೇ .\nಗೋದೇ ವಿಕಸ್ವರ ಧಿಯಾಂ ಭವತೀ ಕಟಾಕ್ಷಾತ್\n     ವಾಚಃ ಸ್ಫುರಂತಿ ಮಕರಂದಮುಚಃ ಕವೀನಾಂ .. ೪..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "asmādṛśāmapakṛtau ciradīkṣitānām\n     ahnāya devi dayate yadasau mukundaḥ .\ntanniścitaṃ niyamitastava maulidāmnā\n     tantrīninādamadhuraiśca girāṃ nigumbhaiḥ .. 5..",
-        "sanskrit": "अस्मादृशामपकृतौ चिरदीक्षितानाम्\n     अह्नाय देवि दयते यदसौ मुकुन्दः ।\nतन्निश्चितं नियमितस्तव मौलिदाम्ना\n     तन्त्रीनिनादमधुरैश्च गिरां निगुम्भैः ॥ ५॥",
-        "kannada": "ಅಸ್ಮಾದೃಶಾಮಪಕೃತೌ ಚಿರದೀಕ್ಷಿತಾನಾಂ\n     ಅಹ್ನಾಯ ದೇವಿ ದಯತೇ ಯದಸೌ ಮುಕುಂದಃ .\nತನ್ನಿಶ್ಚಿತಂ ನಿಯಮಿತಸ್ತವ ಮೌಲಿದಾಮ್ನಾ\n     ತಂತ್ರೀನಿನಾದಮಧುರೈಶ್ಚ ಗಿರಾಂ ನಿಗುಂಭೈಃ .. ೫.."
+        "roman_diacritics": "asmādṛśāmapakṛtau ciradīkṣitānām\n     ahnāya devi dayate yadasau mukundaḥ .\ntanniścitaṃ niyamitastava maulidāmnā\n     tantrīninādamadhuraiśca girāṃ nigumbhaiḥ .. 5..",
+        "devanagari": "अस्मादृशामपकृतौ चिरदीक्षितानाम्\n     अह्नाय देवि दयते यदसौ मुकुन्दः ।\nतन्निश्चितं नियमितस्तव मौलिदाम्ना\n     तन्त्रीनिनादमधुरैश्च गिरां निगुम्भैः ॥ ५॥",
+        "kannada": "ಅಸ್ಮಾದೃಶಾಮಪಕೃತೌ ಚಿರದೀಕ್ಷಿತಾನಾಂ\n     ಅಹ್ನಾಯ ದೇವಿ ದಯತೇ ಯದಸೌ ಮುಕುಂದಃ .\nತನ್ನಿಶ್ಚಿತಂ ನಿಯಮಿತಸ್ತವ ಮೌಲಿದಾಮ್ನಾ\n     ತಂತ್ರೀನಿನಾದಮಧುರೈಶ್ಚ ಗಿರಾಂ ನಿಗುಂಭೈಃ .. ೫..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "śoṇādhare'pi kucayorapi tuṅgabhadrā\n     vācāṃ pravāhanivahe'pi sarasvatī tvam .\naprākṛtairapi rasairvirajā svabhāvāt\n     godā'pi devi kamiturnanu narmadā'si .. 6..",
-        "sanskrit": "शोणाधरेऽपि कुचयोरपि तुङ्गभद्रा\n     वाचां प्रवाहनिवहेऽपि सरस्वती त्वम् ।\nअप्राकृतैरपि रसैर्विरजा स्वभावात्\n     गोदाऽपि देवि कमितुर्ननु नर्मदाऽसि ॥ ६॥",
-        "kannada": "ಶೋಣಾಧರೇಽಪಿ ಕುಚಯೋರಪಿ ತುಂಗಭದ್ರಾ\n     ವಾಚಾಂ ಪ್ರವಾಹನಿವಹೇಽಪಿ ಸರಸ್ವತೀ ತ್ವಂ .\nಅಪ್ರಾಕೃತೈರಪಿ ರಸೈರ್ವಿರಜಾ ಸ್ವಭಾವಾತ್\n     ಗೋದಾಽಪಿ ದೇವಿ ಕಮಿತುರ್ನನು ನರ್ಮದಾಽಸಿ .. ೬.."
+        "roman_diacritics": "śoṇādhare'pi kucayorapi tuṅgabhadrā\n     vācāṃ pravāhanivahe'pi sarasvatī tvam .\naprākṛtairapi rasairvirajā svabhāvāt\n     godā'pi devi kamiturnanu narmadā'si .. 6..",
+        "devanagari": "शोणाधरेऽपि कुचयोरपि तुङ्गभद्रा\n     वाचां प्रवाहनिवहेऽपि सरस्वती त्वम् ।\nअप्राकृतैरपि रसैर्विरजा स्वभावात्\n     गोदाऽपि देवि कमितुर्ननु नर्मदाऽसि ॥ ६॥",
+        "kannada": "ಶೋಣಾಧರೇಽಪಿ ಕುಚಯೋರಪಿ ತುಂಗಭದ್ರಾ\n     ವಾಚಾಂ ಪ್ರವಾಹನಿವಹೇಽಪಿ ಸರಸ್ವತೀ ತ್ವಂ .\nಅಪ್ರಾಕೃತೈರಪಿ ರಸೈರ್ವಿರಜಾ ಸ್ವಭಾವಾತ್\n     ಗೋದಾಽಪಿ ದೇವಿ ಕಮಿತುರ್ನನು ನರ್ಮದಾಽಸಿ .. ೬..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "valmīkataḥ śravaṇato vasudhātmanaste\n     jāto babhūva sa muniḥ kavisārvabhaumaḥ .\ngode kimadbhutamidaṃ yadamī svadante\n     vaktrāravindamakarandanibhāḥ prabandhāḥ .. 7..",
-        "sanskrit": "वल्मीकतः श्रवणतो वसुधात्मनस्ते\n     जातो बभूव स मुनिः कविसार्वभौमः ।\nगोदे किमद्भुतमिदं यदमी स्वदन्ते\n     वक्त्रारविन्दमकरन्दनिभाः प्रबन्धाः ॥ ७॥",
-        "kannada": "ವಲ್ಮೀಕತಃ ಶ್ರವಣತೋ ವಸುಧಾತ್ಮನಸ್ತೇ\n     ಜಾತೋ ಬಭೂವ ಸ ಮುನಿಃ ಕವಿಸಾರ್ವಭೌಮಃ .\nಗೋದೇ ಕಿಮದ್ಭುತಮಿದಂ ಯದಮೀ ಸ್ವದಂತೇ\n     ವಕ್ತ್ರಾರವಿಂದಮಕರಂದನಿಭಾಃ ಪ್ರಬಂಧಾಃ .. ೭.."
+        "roman_diacritics": "valmīkataḥ śravaṇato vasudhātmanaste\n     jāto babhūva sa muniḥ kavisārvabhaumaḥ .\ngode kimadbhutamidaṃ yadamī svadante\n     vaktrāravindamakarandanibhāḥ prabandhāḥ .. 7..",
+        "devanagari": "वल्मीकतः श्रवणतो वसुधात्मनस्ते\n     जातो बभूव स मुनिः कविसार्वभौमः ।\nगोदे किमद्भुतमिदं यदमी स्वदन्ते\n     वक्त्रारविन्दमकरन्दनिभाः प्रबन्धाः ॥ ७॥",
+        "kannada": "ವಲ್ಮೀಕತಃ ಶ್ರವಣತೋ ವಸುಧಾತ್ಮನಸ್ತೇ\n     ಜಾತೋ ಬಭೂವ ಸ ಮುನಿಃ ಕವಿಸಾರ್ವಭೌಮಃ .\nಗೋದೇ ಕಿಮದ್ಭುತಮಿದಂ ಯದಮೀ ಸ್ವದಂತೇ\n     ವಕ್ತ್ರಾರವಿಂದಮಕರಂದನಿಭಾಃ ಪ್ರಬಂಧಾಃ .. ೭..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "bhoktuṃ tava priyatamaṃ bhavatīva gode\n     bhaktiṃ nijāṃ praṇayabhāvanayā gṛṇantaḥ .\nuccāvacairvirahasaṅgamajairudantaiḥ\n     śṛṅgārayanti hṛdayaṃ guravastvadīyāḥ .. 8..",
-        "sanskrit": "भोक्तुं तव प्रियतमं भवतीव गोदे\n     भक्तिं निजां प्रणयभावनया गृणन्तः ।\nउच्चावचैर्विरहसङ्गमजैरुदन्तैः\n     शृङ्गारयन्ति हृदयं गुरवस्त्वदीयाः ॥ ८॥",
-        "kannada": "ಭೋಕ್ತುಂ ತವ ಪ್ರಿಯತಮಂ ಭವತೀವ ಗೋದೇ\n     ಭಕ್ತಿಂ ನಿಜಾಂ ಪ್ರಣಯಭಾವನಯಾ ಗೃಣಂತಃ .\nಉಚ್ಚಾವಚೈರ್ವಿರಹಸಂಗಮಜೈರುದಂತೈಃ\n     ಶೃಂಗಾರಯಂತಿ ಹೃದಯಂ ಗುರವಸ್ತ್ವದೀಯಾಃ .. ೮.."
+        "roman_diacritics": "bhoktuṃ tava priyatamaṃ bhavatīva gode\n     bhaktiṃ nijāṃ praṇayabhāvanayā gṛṇantaḥ .\nuccāvacairvirahasaṅgamajairudantaiḥ\n     śṛṅgārayanti hṛdayaṃ guravastvadīyāḥ .. 8..",
+        "devanagari": "भोक्तुं तव प्रियतमं भवतीव गोदे\n     भक्तिं निजां प्रणयभावनया गृणन्तः ।\nउच्चावचैर्विरहसङ्गमजैरुदन्तैः\n     शृङ्गारयन्ति हृदयं गुरवस्त्वदीयाः ॥ ८॥",
+        "kannada": "ಭೋಕ್ತುಂ ತವ ಪ್ರಿಯತಮಂ ಭವತೀವ ಗೋದೇ\n     ಭಕ್ತಿಂ ನಿಜಾಂ ಪ್ರಣಯಭಾವನಯಾ ಗೃಣಂತಃ .\nಉಚ್ಚಾವಚೈರ್ವಿರಹಸಂಗಮಜೈರುದಂತೈಃ\n     ಶೃಂಗಾರಯಂತಿ ಹೃದಯಂ ಗುರವಸ್ತ್ವದೀಯಾಃ .. ೮..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "mātaḥ samutthitavatīmadhiviṣṇucittaṃ\n     viśvopajīvyamamṛtaṃ vacasā duhānām .\ntāpacchidaṃ himaruceriva mūrtimanyāṃ\n     santaḥ payodhiduhituḥ sahajāṃ vidustvām .. 9..",
-        "sanskrit": "मातः समुत्थितवतीमधिविष्णुचित्तं\n     विश्वोपजीव्यममृतं वचसा दुहानाम् ।\nतापच्छिदं हिमरुचेरिव मूर्तिमन्यां\n     सन्तः पयोधिदुहितुः सहजां विदुस्त्वाम् ॥ ९॥",
-        "kannada": "ಮಾತಃ ಸಮುತ್ಥಿತವತೀಮಧಿವಿಷ್ಣುಚಿತ್ತಂ\n     ವಿಶ್ವೋಪಜೀವ್ಯಮಮೃತಂ ವಚಸಾ ದುಹಾನಾಂ .\nತಾಪಚ್ಛಿದಂ ಹಿಮರುಚೇರಿವ ಮೂರ್ತಿಮನ್ಯಾಂ\n     ಸಂತಃ ಪಯೋಧಿದುಹಿತುಃ ಸಹಜಾಂ ವಿದುಸ್ತ್ವಾಂ .. ೯.."
+        "roman_diacritics": "mātaḥ samutthitavatīmadhiviṣṇucittaṃ\n     viśvopajīvyamamṛtaṃ vacasā duhānām .\ntāpacchidaṃ himaruceriva mūrtimanyāṃ\n     santaḥ payodhiduhituḥ sahajāṃ vidustvām .. 9..",
+        "devanagari": "मातः समुत्थितवतीमधिविष्णुचित्तं\n     विश्वोपजीव्यममृतं वचसा दुहानाम् ।\nतापच्छिदं हिमरुचेरिव मूर्तिमन्यां\n     सन्तः पयोधिदुहितुः सहजां विदुस्त्वाम् ॥ ९॥",
+        "kannada": "ಮಾತಃ ಸಮುತ್ಥಿತವತೀಮಧಿವಿಷ್ಣುಚಿತ್ತಂ\n     ವಿಶ್ವೋಪಜೀವ್ಯಮಮೃತಂ ವಚಸಾ ದುಹಾನಾಂ .\nತಾಪಚ್ಛಿದಂ ಹಿಮರುಚೇರಿವ ಮೂರ್ತಿಮನ್ಯಾಂ\n     ಸಂತಃ ಪಯೋಧಿದುಹಿತುಃ ಸಹಜಾಂ ವಿದುಸ್ತ್ವಾಂ .. ೯..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "tātastu te madhubhidaḥ stutileśavaśyāt\n     karṇāmṛtaiḥ stutiśatairanavāptapūrvam .\ntvanmauligandhasubhagāmupahṛtya mālāṃ\n     lebhe mahattarapadānuguṇaṃ prasādam .. 10..",
-        "sanskrit": "तातस्तु ते मधुभिदः स्तुतिलेशवश्यात्\n     कर्णामृतैः स्तुतिशतैरनवाप्तपूर्वम् ।\nत्वन्मौलिगन्धसुभगामुपहृत्य मालां\n     लेभे महत्तरपदानुगुणं प्रसादम् ॥ १०॥",
-        "kannada": "ತಾತಸ್ತು ತೇ ಮಧುಭಿದಃ ಸ್ತುತಿಲೇಶವಶ್ಯಾತ್\n     ಕರ್ಣಾಮೃತೈಃ ಸ್ತುತಿಶತೈರನವಾಪ್ತಪೂರ್ವಂ .\nತ್ವನ್ಮೌಲಿಗಂಧಸುಭಗಾಮುಪಹೃತ್ಯ ಮಾಲಾಂ\n     ಲೇಭೇ ಮಹತ್ತರಪದಾನುಗುಣಂ ಪ್ರಸಾದಂ .. ೧೦.."
+        "roman_diacritics": "tātastu te madhubhidaḥ stutileśavaśyāt\n     karṇāmṛtaiḥ stutiśatairanavāptapūrvam .\ntvanmauligandhasubhagāmupahṛtya mālāṃ\n     lebhe mahattarapadānuguṇaṃ prasādam .. 10..",
+        "devanagari": "तातस्तु ते मधुभिदः स्तुतिलेशवश्यात्\n     कर्णामृतैः स्तुतिशतैरनवाप्तपूर्वम् ।\nत्वन्मौलिगन्धसुभगामुपहृत्य मालां\n     लेभे महत्तरपदानुगुणं प्रसादम् ॥ १०॥",
+        "kannada": "ತಾತಸ್ತು ತೇ ಮಧುಭಿದಃ ಸ್ತುತಿಲೇಶವಶ್ಯಾತ್\n     ಕರ್ಣಾಮೃತೈಃ ಸ್ತುತಿಶತೈರನವಾಪ್ತಪೂರ್ವಂ .\nತ್ವನ್ಮೌಲಿಗಂಧಸುಭಗಾಮುಪಹೃತ್ಯ ಮಾಲಾಂ\n     ಲೇಭೇ ಮಹತ್ತರಪದಾನುಗುಣಂ ಪ್ರಸಾದಂ .. ೧೦..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "digdakṣiṇā'pi paripaktrimapuṇyalabhyāt\n     sarvottarā bhavati devi tavāvatārāt .\nyatraiva raṅgapatinā bahumānapūrvaṃ\n     nidrālunāpi niyataṃ nihitāḥ kaṭākṣāḥ .. 11..",
-        "sanskrit": "दिग्दक्षिणाऽपि परिपक्त्रिमपुण्यलभ्यात्\n     सर्वोत्तरा भवति देवि तवावतारात् ।\nयत्रैव रङ्गपतिना बहुमानपूर्वं\n     निद्रालुनापि नियतं निहिताः कटाक्षाः ॥ ११॥",
-        "kannada": "ದಿಗ್ದಕ್ಷಿಣಾಽಪಿ ಪರಿಪಕ್ತ್ರಿಮಪುಣ್ಯಲಭ್ಯಾತ್\n     ಸರ್ವೋತ್ತರಾ ಭವತಿ ದೇವಿ ತವಾವತಾರಾತ್ .\nಯತ್ರೈವ ರಂಗಪತಿನಾ ಬಹುಮಾನಪೂರ್ವಂ\n     ನಿದ್ರಾಲುನಾಪಿ ನಿಯತಂ ನಿಹಿತಾಃ ಕಟಾಕ್ಷಾಃ .. ೧೧.."
+        "roman_diacritics": "digdakṣiṇā'pi paripaktrimapuṇyalabhyāt\n     sarvottarā bhavati devi tavāvatārāt .\nyatraiva raṅgapatinā bahumānapūrvaṃ\n     nidrālunāpi niyataṃ nihitāḥ kaṭākṣāḥ .. 11..",
+        "devanagari": "दिग्दक्षिणाऽपि परिपक्त्रिमपुण्यलभ्यात्\n     सर्वोत्तरा भवति देवि तवावतारात् ।\nयत्रैव रङ्गपतिना बहुमानपूर्वं\n     निद्रालुनापि नियतं निहिताः कटाक्षाः ॥ ११॥",
+        "kannada": "ದಿಗ್ದಕ್ಷಿಣಾಽಪಿ ಪರಿಪಕ್ತ್ರಿಮಪುಣ್ಯಲಭ್ಯಾತ್\n     ಸರ್ವೋತ್ತರಾ ಭವತಿ ದೇವಿ ತವಾವತಾರಾತ್ .\nಯತ್ರೈವ ರಂಗಪತಿನಾ ಬಹುಮಾನಪೂರ್ವಂ\n     ನಿದ್ರಾಲುನಾಪಿ ನಿಯತಂ ನಿಹಿತಾಃ ಕಟಾಕ್ಷಾಃ .. ೧೧..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "prāyeṇa devi bhavatīvyapadeśayogāt\n     godāvarī jagadidaṃ payasā punīte .\nyasyāṃ sametya samayeṣu ciraṃ nivāsāt\n     bhāgīrathīprabhṛtayo'pi bhavanti puṇyāḥ .. 12..",
-        "sanskrit": "प्रायेण देवि भवतीव्यपदेशयोगात्\n     गोदावरी जगदिदं पयसा पुनीते ।\nयस्यां समेत्य समयेषु चिरं निवासात्\n     भागीरथीप्रभृतयोऽपि भवन्ति पुण्याः ॥ १२॥",
-        "kannada": "ಪ್ರಾಯೇಣ ದೇವಿ ಭವತೀವ್ಯಪದೇಶಯೋಗಾತ್\n     ಗೋದಾವರೀ ಜಗದಿದಂ ಪಯಸಾ ಪುನೀತೇ .\nಯಸ್ಯಾಂ ಸಮೇತ್ಯ ಸಮಯೇಷು ಚಿರಂ ನಿವಾಸಾತ್\n     ಭಾಗೀರಥೀಪ್ರಭೃತಯೋಽಪಿ ಭವಂತಿ ಪುಣ್ಯಾಃ .. ೧೨.."
+        "roman_diacritics": "prāyeṇa devi bhavatīvyapadeśayogāt\n     godāvarī jagadidaṃ payasā punīte .\nyasyāṃ sametya samayeṣu ciraṃ nivāsāt\n     bhāgīrathīprabhṛtayo'pi bhavanti puṇyāḥ .. 12..",
+        "devanagari": "प्रायेण देवि भवतीव्यपदेशयोगात्\n     गोदावरी जगदिदं पयसा पुनीते ।\nयस्यां समेत्य समयेषु चिरं निवासात्\n     भागीरथीप्रभृतयोऽपि भवन्ति पुण्याः ॥ १२॥",
+        "kannada": "ಪ್ರಾಯೇಣ ದೇವಿ ಭವತೀವ್ಯಪದೇಶಯೋಗಾತ್\n     ಗೋದಾವರೀ ಜಗದಿದಂ ಪಯಸಾ ಪುನೀತೇ .\nಯಸ್ಯಾಂ ಸಮೇತ್ಯ ಸಮಯೇಷು ಚಿರಂ ನಿವಾಸಾತ್\n     ಭಾಗೀರಥೀಪ್ರಭೃತಯೋಽಪಿ ಭವಂತಿ ಪುಣ್ಯಾಃ .. ೧೨..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "nāgeśayaḥ sutanu pakṣirathaḥ kathaṃ te\n     jātaḥ svayaṃvarapatiḥ puruṣaḥ purāṇaḥ .\nevaṃ vidhāḥ samucitaṃ praṇayaṃ bhavatyāḥ\n     sandarśayanti parihāsagiraḥ sakhīnām .. 13..",
-        "sanskrit": "नागेशयः सुतनु पक्षिरथः कथं ते\n     जातः स्वयंवरपतिः पुरुषः पुराणः ।\nएवं विधाः समुचितं प्रणयं भवत्याः\n     सन्दर्शयन्ति परिहासगिरः सखीनाम् ॥ १३॥",
-        "kannada": "ನಾಗೇಶಯಃ ಸುತನು ಪಕ್ಷಿರಥಃ ಕಥಂ ತೇ\n     ಜಾತಃ ಸ್ವಯಂವರಪತಿಃ ಪುರುಷಃ ಪುರಾಣಃ .\nಏವಂ ವಿಧಾಃ ಸಮುಚಿತಂ ಪ್ರಣಯಂ ಭವತ್ಯಾಃ\n     ಸಂದರ್ಶಯಂತಿ ಪರಿಹಾಸಗಿರಃ ಸಖೀನಾಂ .. ೧೩.."
+        "roman_diacritics": "nāgeśayaḥ sutanu pakṣirathaḥ kathaṃ te\n     jātaḥ svayaṃvarapatiḥ puruṣaḥ purāṇaḥ .\nevaṃ vidhāḥ samucitaṃ praṇayaṃ bhavatyāḥ\n     sandarśayanti parihāsagiraḥ sakhīnām .. 13..",
+        "devanagari": "नागेशयः सुतनु पक्षिरथः कथं ते\n     जातः स्वयंवरपतिः पुरुषः पुराणः ।\nएवं विधाः समुचितं प्रणयं भवत्याः\n     सन्दर्शयन्ति परिहासगिरः सखीनाम् ॥ १३॥",
+        "kannada": "ನಾಗೇಶಯಃ ಸುತನು ಪಕ್ಷಿರಥಃ ಕಥಂ ತೇ\n     ಜಾತಃ ಸ್ವಯಂವರಪತಿಃ ಪುರುಷಃ ಪುರಾಣಃ .\nಏವಂ ವಿಧಾಃ ಸಮುಚಿತಂ ಪ್ರಣಯಂ ಭವತ್ಯಾಃ\n     ಸಂದರ್ಶಯಂತಿ ಪರಿಹಾಸಗಿರಃ ಸಖೀನಾಂ .. ೧೩..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "tvadbhuktamālyasurabhīkṛtacārumauleḥ\n     hitvā bhujāntaragatāmapi vaijayantīm .\npatyustaveśvari mithaḥ pratighātalolāḥ\n     barhātapatrarucimāracayanti bhṛṅgāḥ .. 14..",
-        "sanskrit": "त्वद्भुक्तमाल्यसुरभीकृतचारुमौलेः\n     हित्वा भुजान्तरगतामपि वैजयन्तीम् ।\nपत्युस्तवेश्वरि मिथः प्रतिघातलोलाः\n     बर्हातपत्ररुचिमारचयन्ति भृङ्गाः ॥ १४॥",
-        "kannada": "ತ್ವದ್ಭುಕ್ತಮಾಲ್ಯಸುರಭೀಕೃತಚಾರುಮೌಲೇಃ\n     ಹಿತ್ವಾ ಭುಜಾಂತರಗತಾಮಪಿ ವೈಜಯಂತೀಂ .\nಪತ್ಯುಸ್ತವೇಶ್ವರಿ ಮಿಥಃ ಪ್ರತಿಘಾತಲೋಲಾಃ\n     ಬರ್ಹಾತಪತ್ರರುಚಿಮಾರಚಯಂತಿ ಭೃಂಗಾಃ .. ೧೪.."
+        "roman_diacritics": "tvadbhuktamālyasurabhīkṛtacārumauleḥ\n     hitvā bhujāntaragatāmapi vaijayantīm .\npatyustaveśvari mithaḥ pratighātalolāḥ\n     barhātapatrarucimāracayanti bhṛṅgāḥ .. 14..",
+        "devanagari": "त्वद्भुक्तमाल्यसुरभीकृतचारुमौलेः\n     हित्वा भुजान्तरगतामपि वैजयन्तीम् ।\nपत्युस्तवेश्वरि मिथः प्रतिघातलोलाः\n     बर्हातपत्ररुचिमारचयन्ति भृङ्गाः ॥ १४॥",
+        "kannada": "ತ್ವದ್ಭುಕ್ತಮಾಲ್ಯಸುರಭೀಕೃತಚಾರುಮೌಲೇಃ\n     ಹಿತ್ವಾ ಭುಜಾಂತರಗತಾಮಪಿ ವೈಜಯಂತೀಂ .\nಪತ್ಯುಸ್ತವೇಶ್ವರಿ ಮಿಥಃ ಪ್ರತಿಘಾತಲೋಲಾಃ\n     ಬರ್ಹಾತಪತ್ರರುಚಿಮಾರಚಯಂತಿ ಭೃಂಗಾಃ .. ೧೪..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "āmodavatyapi sadā hṛdayaṅgamā'pi\n     rāgānvitā'pi lalitā'pi guṇottarā'pi .\nmaulisrajā tava mukundakirīṭabhājā\n     gode bhavatyadharitā khalu vaijayantī .. 15..",
-        "sanskrit": "आमोदवत्यपि सदा हृदयङ्गमाऽपि\n     रागान्विताऽपि ललिताऽपि गुणोत्तराऽपि ।\nमौलिस्रजा तव मुकुन्दकिरीटभाजा\n     गोदे भवत्यधरिता खलु वैजयन्ती ॥ १५॥",
-        "kannada": "ಆಮೋದವತ್ಯಪಿ ಸದಾ ಹೃದಯಂಗಮಾಽಪಿ\n     ರಾಗಾನ್ವಿತಾಽಪಿ ಲಲಿತಾಽಪಿ ಗುಣೋತ್ತರಾಽಪಿ .\nಮೌಲಿಸ್ರಜಾ ತವ ಮುಕುಂದಕಿರೀಟಭಾಜಾ\n     ಗೋದೇ ಭವತ್ಯಧರಿತಾ ಖಲು ವೈಜಯಂತೀ .. ೧೫.."
+        "roman_diacritics": "āmodavatyapi sadā hṛdayaṅgamā'pi\n     rāgānvitā'pi lalitā'pi guṇottarā'pi .\nmaulisrajā tava mukundakirīṭabhājā\n     gode bhavatyadharitā khalu vaijayantī .. 15..",
+        "devanagari": "आमोदवत्यपि सदा हृदयङ्गमाऽपि\n     रागान्विताऽपि ललिताऽपि गुणोत्तराऽपि ।\nमौलिस्रजा तव मुकुन्दकिरीटभाजा\n     गोदे भवत्यधरिता खलु वैजयन्ती ॥ १५॥",
+        "kannada": "ಆಮೋದವತ್ಯಪಿ ಸದಾ ಹೃದಯಂಗಮಾಽಪಿ\n     ರಾಗಾನ್ವಿತಾಽಪಿ ಲಲಿತಾಽಪಿ ಗುಣೋತ್ತರಾಽಪಿ .\nಮೌಲಿಸ್ರಜಾ ತವ ಮುಕುಂದಕಿರೀಟಭಾಜಾ\n     ಗೋದೇ ಭವತ್ಯಧರಿತಾ ಖಲು ವೈಜಯಂತೀ .. ೧೫..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "tvanmaulidāmani vibhoḥ śirasā gṛhīte\n     svacchandakalpitasapītirasapramodāḥ .\nmañjusvanā madhuliho vidadhuḥ svayaṃ te\n     svāyaṃvaraṃ kamapi maṅgalatūryaghoṣam .. 16..",
-        "sanskrit": "त्वन्मौलिदामनि विभोः शिरसा गृहीते\n     स्वच्छन्दकल्पितसपीतिरसप्रमोदाः ।\nमञ्जुस्वना मधुलिहो विदधुः स्वयं ते\n     स्वायंवरं कमपि मङ्गलतूर्यघोषम् ॥ १६॥",
-        "kannada": "ತ್ವನ್ಮೌಲಿದಾಮನಿ ವಿಭೋಃ ಶಿರಸಾ ಗೃಹೀತೇ\n     ಸ್ವಚ್ಛಂದಕಲ್ಪಿತಸಪೀತಿರಸಪ್ರಮೋದಾಃ .\nಮಂಜುಸ್ವನಾ ಮಧುಲಿಹೋ ವಿದಧುಃ ಸ್ವಯಂ ತೇ\n     ಸ್ವಾಯಂವರಂ ಕಮಪಿ ಮಂಗಲತೂರ್ಯಘೋಷಂ .. ೧೬.."
+        "roman_diacritics": "tvanmaulidāmani vibhoḥ śirasā gṛhīte\n     svacchandakalpitasapītirasapramodāḥ .\nmañjusvanā madhuliho vidadhuḥ svayaṃ te\n     svāyaṃvaraṃ kamapi maṅgalatūryaghoṣam .. 16..",
+        "devanagari": "त्वन्मौलिदामनि विभोः शिरसा गृहीते\n     स्वच्छन्दकल्पितसपीतिरसप्रमोदाः ।\nमञ्जुस्वना मधुलिहो विदधुः स्वयं ते\n     स्वायंवरं कमपि मङ्गलतूर्यघोषम् ॥ १६॥",
+        "kannada": "ತ್ವನ್ಮೌಲಿದಾಮನಿ ವಿಭೋಃ ಶಿರಸಾ ಗೃಹೀತೇ\n     ಸ್ವಚ್ಛಂದಕಲ್ಪಿತಸಪೀತಿರಸಪ್ರಮೋದಾಃ .\nಮಂಜುಸ್ವನಾ ಮಧುಲಿಹೋ ವಿದಧುಃ ಸ್ವಯಂ ತೇ\n     ಸ್ವಾಯಂವರಂ ಕಮಪಿ ಮಂಗಲತೂರ್ಯಘೋಷಂ .. ೧೬..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "viśvāyamānarajasā kamalena nābhau (viśvāsamānarajasā)\n     vakṣaḥsthale ca kamalāstanacandanena .\nāmodito'pi nigamairvibhuraṅghriyugme\n     dhatte natena śirasā tava maulimālām .. 17..",
-        "sanskrit": "विश्वायमानरजसा कमलेन नाभौ (विश्वासमानरजसा)\n     वक्षःस्थले च कमलास्तनचन्दनेन ।\nआमोदितोऽपि निगमैर्विभुरङ्घ्रियुग्मे\n     धत्ते नतेन शिरसा तव मौलिमालाम् ॥ १७॥",
-        "kannada": "ವಿಶ್ವಾಯಮಾನರಜಸಾ ಕಮಲೇನ ನಾಭೌ (ವಿಶ್ವಾಸಮಾನರಜಸಾ)\n     ವಕ್ಷಃಸ್ಥಲೇ ಚ ಕಮಲಾಸ್ತನಚಂದನೇನ .\nಆಮೋದಿತೋಽಪಿ ನಿಗಮೈರ್ವಿಭುರಂಘ್ರಿಯುಗ್ಮೇ\n     ಧತ್ತೇ ನತೇನ ಶಿರಸಾ ತವ ಮೌಲಿಮಾಲಾಂ .. ೧೭.."
+        "roman_diacritics": "viśvāyamānarajasā kamalena nābhau (viśvāsamānarajasā)\n     vakṣaḥsthale ca kamalāstanacandanena .\nāmodito'pi nigamairvibhuraṅghriyugme\n     dhatte natena śirasā tava maulimālām .. 17..",
+        "devanagari": "विश्वायमानरजसा कमलेन नाभौ (विश्वासमानरजसा)\n     वक्षःस्थले च कमलास्तनचन्दनेन ।\nआमोदितोऽपि निगमैर्विभुरङ्घ्रियुग्मे\n     धत्ते नतेन शिरसा तव मौलिमालाम् ॥ १७॥",
+        "kannada": "ವಿಶ್ವಾಯಮಾನರಜಸಾ ಕಮಲೇನ ನಾಭೌ (ವಿಶ್ವಾಸಮಾನರಜಸಾ)\n     ವಕ್ಷಃಸ್ಥಲೇ ಚ ಕಮಲಾಸ್ತನಚಂದನೇನ .\nಆಮೋದಿತೋಽಪಿ ನಿಗಮೈರ್ವಿಭುರಂಘ್ರಿಯುಗ್ಮೇ\n     ಧತ್ತೇ ನತೇನ ಶಿರಸಾ ತವ ಮೌಲಿಮಾಲಾಂ .. ೧೭..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "cūḍāpadena parigṛhya tavottarīyaṃ\n     mālāmapi tvadalakairadhivāsya dattām .\nprāyeṇa raṅgapatireṣa bibharti gode\n     saubhāgyasampadabhiṣekamahādhikāram .. 18..",
-        "sanskrit": "चूडापदेन परिगृह्य तवोत्तरीयं\n     मालामपि त्वदलकैरधिवास्य दत्ताम् ।\nप्रायेण रङ्गपतिरेष बिभर्ति गोदे\n     सौभाग्यसम्पदभिषेकमहाधिकारम् ॥ १८॥",
-        "kannada": "ಚೂಡಾಪದೇನ ಪರಿಗೃಹ್ಯ ತವೋತ್ತರೀಯಂ\n     ಮಾಲಾಮಪಿ ತ್ವದಲಕೈರಧಿವಾಸ್ಯ ದತ್ತಾಂ .\nಪ್ರಾಯೇಣ ರಂಗಪತಿರೇಷ ಬಿಭರ್ತಿ ಗೋದೇ\n     ಸೌಭಾಗ್ಯಸಂಪದಭಿಷೇಕಮಹಾಧಿಕಾರಂ .. ೧೮.."
+        "roman_diacritics": "cūḍāpadena parigṛhya tavottarīyaṃ\n     mālāmapi tvadalakairadhivāsya dattām .\nprāyeṇa raṅgapatireṣa bibharti gode\n     saubhāgyasampadabhiṣekamahādhikāram .. 18..",
+        "devanagari": "चूडापदेन परिगृह्य तवोत्तरीयं\n     मालामपि त्वदलकैरधिवास्य दत्ताम् ।\nप्रायेण रङ्गपतिरेष बिभर्ति गोदे\n     सौभाग्यसम्पदभिषेकमहाधिकारम् ॥ १८॥",
+        "kannada": "ಚೂಡಾಪದೇನ ಪರಿಗೃಹ್ಯ ತವೋತ್ತರೀಯಂ\n     ಮಾಲಾಮಪಿ ತ್ವದಲಕೈರಧಿವಾಸ್ಯ ದತ್ತಾಂ .\nಪ್ರಾಯೇಣ ರಂಗಪತಿರೇಷ ಬಿಭರ್ತಿ ಗೋದೇ\n     ಸೌಭಾಗ್ಯಸಂಪದಭಿಷೇಕಮಹಾಧಿಕಾರಂ .. ೧೮..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "tuṅgairakṛtrimagiraḥ svayamuttamāṅgaiḥ\n     yaṃ sarvagandha iti sādaramudvahanti .\nāmodamanyamadhigacchati mālikābhiḥ\n     so'pi tvadīyakuṭilālakavāsitābhiḥ .. 19..",
-        "sanskrit": "तुङ्गैरकृत्रिमगिरः स्वयमुत्तमाङ्गैः\n     यं सर्वगन्ध इति सादरमुद्वहन्ति ।\nआमोदमन्यमधिगच्छति मालिकाभिः\n     सोऽपि त्वदीयकुटिलालकवासिताभिः ॥ १९॥",
-        "kannada": "ತುಂಗೈರಕೃತ್ರಿಮಗಿರಃ ಸ್ವಯಮುತ್ತಮಾಂಗೈಃ\n     ಯಂ ಸರ್ವಗಂಧ ಇತಿ ಸಾದರಮುದ್ವಹಂತಿ .\nಆಮೋದಮನ್ಯಮಧಿಗಚ್ಛತಿ ಮಾಲಿಕಾಭಿಃ\n     ಸೋಽಪಿ ತ್ವದೀಯಕುಟಿಲಾಲಕವಾಸಿತಾಭಿಃ .. ೧೯.."
+        "roman_diacritics": "tuṅgairakṛtrimagiraḥ svayamuttamāṅgaiḥ\n     yaṃ sarvagandha iti sādaramudvahanti .\nāmodamanyamadhigacchati mālikābhiḥ\n     so'pi tvadīyakuṭilālakavāsitābhiḥ .. 19..",
+        "devanagari": "तुङ्गैरकृत्रिमगिरः स्वयमुत्तमाङ्गैः\n     यं सर्वगन्ध इति सादरमुद्वहन्ति ।\nआमोदमन्यमधिगच्छति मालिकाभिः\n     सोऽपि त्वदीयकुटिलालकवासिताभिः ॥ १९॥",
+        "kannada": "ತುಂಗೈರಕೃತ್ರಿಮಗಿರಃ ಸ್ವಯಮುತ್ತಮಾಂಗೈಃ\n     ಯಂ ಸರ್ವಗಂಧ ಇತಿ ಸಾದರಮುದ್ವಹಂತಿ .\nಆಮೋದಮನ್ಯಮಧಿಗಚ್ಛತಿ ಮಾಲಿಕಾಭಿಃ\n     ಸೋಽಪಿ ತ್ವದೀಯಕುಟಿಲಾಲಕವಾಸಿತಾಭಿಃ .. ೧೯..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "dhanye samastajagatāṃ pituruttamāṅge\n     tvanmaulimālyabharasambharaṇena bhūyaḥ .\nindīvarasrajamivādadhati tvadīyā-\n     nyākekarāṇi bahumānavilokitāni .. 20..",
-        "sanskrit": "धन्ये समस्तजगतां पितुरुत्तमाङ्गे\n     त्वन्मौलिमाल्यभरसम्भरणेन भूयः ।\nइन्दीवरस्रजमिवादधति त्वदीया-\n     न्याकेकराणि बहुमानविलोकितानि ॥ २०॥",
-        "kannada": "ಧನ್ಯೇ ಸಮಸ್ತಜಗತಾಂ ಪಿತುರುತ್ತಮಾಂಗೇ\n     ತ್ವನ್ಮೌಲಿಮಾಲ್ಯಭರಸಂಭರಣೇನ ಭೂಯಃ .\nಇಂದೀವರಸ್ರಜಮಿವಾದಧತಿ ತ್ವದೀಯಾ-\n     ನ್ಯಾಕೇಕರಾಣಿ ಬಹುಮಾನವಿಲೋಕಿತಾನಿ .. ೨೦.."
+        "roman_diacritics": "dhanye samastajagatāṃ pituruttamāṅge\n     tvanmaulimālyabharasambharaṇena bhūyaḥ .\nindīvarasrajamivādadhati tvadīyā-\n     nyākekarāṇi bahumānavilokitāni .. 20..",
+        "devanagari": "धन्ये समस्तजगतां पितुरुत्तमाङ्गे\n     त्वन्मौलिमाल्यभरसम्भरणेन भूयः ।\nइन्दीवरस्रजमिवादधति त्वदीया-\n     न्याकेकराणि बहुमानविलोकितानि ॥ २०॥",
+        "kannada": "ಧನ್ಯೇ ಸಮಸ್ತಜಗತಾಂ ಪಿತುರುತ್ತಮಾಂಗೇ\n     ತ್ವನ್ಮೌಲಿಮಾಲ್ಯಭರಸಂಭರಣೇನ ಭೂಯಃ .\nಇಂದೀವರಸ್ರಜಮಿವಾದಧತಿ ತ್ವದೀಯಾ-\n     ನ್ಯಾಕೇಕರಾಣಿ ಬಹುಮಾನವಿಲೋಕಿತಾನಿ .. ೨೦..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "raṅgeśvarasya tava ca praṇayānubandhāt\n     anyonyamālyaparivṛttimabhiṣṭuvantaḥ .\nvācālayanti vasudhe rasikāstrilokīṃ\n     nyūnādhikatvasamatāviṣayairvivādaiḥ .. 21..",
-        "sanskrit": "रङ्गेश्वरस्य तव च प्रणयानुबन्धात्\n     अन्योन्यमाल्यपरिवृत्तिमभिष्टुवन्तः ।\nवाचालयन्ति वसुधे रसिकास्त्रिलोकीं\n     न्यूनाधिकत्वसमताविषयैर्विवादैः ॥ २१॥",
-        "kannada": "ರಂಗೇಶ್ವರಸ್ಯ ತವ ಚ ಪ್ರಣಯಾನುಬಂಧಾತ್\n     ಅನ್ಯೋನ್ಯಮಾಲ್ಯಪರಿವೃತ್ತಿಮಭಿಷ್ಟುವಂತಃ .\nವಾಚಾಲಯಂತಿ ವಸುಧೇ ರಸಿಕಾಸ್ತ್ರಿಲೋಕೀಂ\n     ನ್ಯೂನಾಧಿಕತ್ವಸಮತಾವಿಷಯೈರ್ವಿವಾದೈಃ .. ೨೧.."
+        "roman_diacritics": "raṅgeśvarasya tava ca praṇayānubandhāt\n     anyonyamālyaparivṛttimabhiṣṭuvantaḥ .\nvācālayanti vasudhe rasikāstrilokīṃ\n     nyūnādhikatvasamatāviṣayairvivādaiḥ .. 21..",
+        "devanagari": "रङ्गेश्वरस्य तव च प्रणयानुबन्धात्\n     अन्योन्यमाल्यपरिवृत्तिमभिष्टुवन्तः ।\nवाचालयन्ति वसुधे रसिकास्त्रिलोकीं\n     न्यूनाधिकत्वसमताविषयैर्विवादैः ॥ २१॥",
+        "kannada": "ರಂಗೇಶ್ವರಸ್ಯ ತವ ಚ ಪ್ರಣಯಾನುಬಂಧಾತ್\n     ಅನ್ಯೋನ್ಯಮಾಲ್ಯಪರಿವೃತ್ತಿಮಭಿಷ್ಟುವಂತಃ .\nವಾಚಾಲಯಂತಿ ವಸುಧೇ ರಸಿಕಾಸ್ತ್ರಿಲೋಕೀಂ\n     ನ್ಯೂನಾಧಿಕತ್ವಸಮತಾವಿಷಯೈರ್ವಿವಾದೈಃ .. ೨೧..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "dūrvādalapratimayā tava dehakāntyā\n     gorocanārucirayā ca rucendirāyāḥ .\nāsīdanujjhitaśikhāvalakaṇṭhaśobhaṃ\n     māṅgalyadaṃ praṇamatāṃ madhuvairigātram .. 22..",
-        "sanskrit": "दूर्वादलप्रतिमया तव देहकान्त्या\n     गोरोचनारुचिरया च रुचेन्दिरायाः ।\nआसीदनुज्झितशिखावलकण्ठशोभं\n     माङ्गल्यदं प्रणमतां मधुवैरिगात्रम् ॥ २२॥",
-        "kannada": "ದೂರ್ವಾದಲಪ್ರತಿಮಯಾ ತವ ದೇಹಕಾಂತ್ಯಾ\n     ಗೋರೋಚನಾರುಚಿರಯಾ ಚ ರುಚೇಂದಿರಾಯಾಃ .\nಆಸೀದನುಜ್ಝಿತಶಿಖಾವಲಕಂಠಶೋಭಂ\n     ಮಾಂಗಲ್ಯದಂ ಪ್ರಣಮತಾಂ ಮಧುವೈರಿಗಾತ್ರಂ .. ೨೨.."
+        "roman_diacritics": "dūrvādalapratimayā tava dehakāntyā\n     gorocanārucirayā ca rucendirāyāḥ .\nāsīdanujjhitaśikhāvalakaṇṭhaśobhaṃ\n     māṅgalyadaṃ praṇamatāṃ madhuvairigātram .. 22..",
+        "devanagari": "दूर्वादलप्रतिमया तव देहकान्त्या\n     गोरोचनारुचिरया च रुचेन्दिरायाः ।\nआसीदनुज्झितशिखावलकण्ठशोभं\n     माङ्गल्यदं प्रणमतां मधुवैरिगात्रम् ॥ २२॥",
+        "kannada": "ದೂರ್ವಾದಲಪ್ರತಿಮಯಾ ತವ ದೇಹಕಾಂತ್ಯಾ\n     ಗೋರೋಚನಾರುಚಿರಯಾ ಚ ರುಚೇಂದಿರಾಯಾಃ .\nಆಸೀದನುಜ್ಝಿತಶಿಖಾವಲಕಂಠಶೋಭಂ\n     ಮಾಂಗಲ್ಯದಂ ಪ್ರಣಮತಾಂ ಮಧುವೈರಿಗಾತ್ರಂ .. ೨೨..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "arcyaṃ samarcya niyamairnigamaprasūnaiḥ\n     nāthaṃ tvayā kamalayā ca sameyivāṃsam .\nmātaściraṃ niraviśannijamādhirājyaṃ\n     mānyā manuprabhṛtayo'pi mahīkṣitaste .. 23..",
-        "sanskrit": "अर्च्यं समर्च्य नियमैर्निगमप्रसूनैः\n     नाथं त्वया कमलया च समेयिवांसम् ।\nमातश्चिरं निरविशन्निजमाधिराज्यं\n     मान्या मनुप्रभृतयोऽपि महीक्षितस्ते ॥ २३॥",
-        "kannada": "ಅರ್ಚ್ಯಂ ಸಮರ್ಚ್ಯ ನಿಯಮೈರ್ನಿಗಮಪ್ರಸೂನೈಃ\n     ನಾಥಂ ತ್ವಯಾ ಕಮಲಯಾ ಚ ಸಮೇಯಿವಾಂಸಂ .\nಮಾತಶ್ಚಿರಂ ನಿರವಿಶನ್ನಿಜಮಾಧಿರಾಜ್ಯಂ\n     ಮಾನ್ಯಾ ಮನುಪ್ರಭೃತಯೋಽಪಿ ಮಹೀಕ್ಷಿತಸ್ತೇ .. ೨೩.."
+        "roman_diacritics": "arcyaṃ samarcya niyamairnigamaprasūnaiḥ\n     nāthaṃ tvayā kamalayā ca sameyivāṃsam .\nmātaściraṃ niraviśannijamādhirājyaṃ\n     mānyā manuprabhṛtayo'pi mahīkṣitaste .. 23..",
+        "devanagari": "अर्च्यं समर्च्य नियमैर्निगमप्रसूनैः\n     नाथं त्वया कमलया च समेयिवांसम् ।\nमातश्चिरं निरविशन्निजमाधिराज्यं\n     मान्या मनुप्रभृतयोऽपि महीक्षितस्ते ॥ २३॥",
+        "kannada": "ಅರ್ಚ್ಯಂ ಸಮರ್ಚ್ಯ ನಿಯಮೈರ್ನಿಗಮಪ್ರಸೂನೈಃ\n     ನಾಥಂ ತ್ವಯಾ ಕಮಲಯಾ ಚ ಸಮೇಯಿವಾಂಸಂ .\nಮಾತಶ್ಚಿರಂ ನಿರವಿಶನ್ನಿಜಮಾಧಿರಾಜ್ಯಂ\n     ಮಾನ್ಯಾ ಮನುಪ್ರಭೃತಯೋಽಪಿ ಮಹೀಕ್ಷಿತಸ್ತೇ .. ೨೩..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "ārdrāparādhini jane'pyabhirakṣaṇārthaṃ\n     raṅgeśvarasya ramayā vinivedyamāne .\npārśve paratra bhavatī yadi tatra nāsīt\n     prāyeṇa devi vadanaṃ parivartitaṃ syāt .. 24..",
-        "sanskrit": "आर्द्रापराधिनि जनेऽप्यभिरक्षणार्थं\n     रङ्गेश्वरस्य रमया विनिवेद्यमाने ।\nपार्श्वे परत्र भवती यदि तत्र नासीत्\n     प्रायेण देवि वदनं परिवर्तितं स्यात् ॥ २४॥",
-        "kannada": "ಆರ್ದ್ರಾಪರಾಧಿನಿ ಜನೇಽಪ್ಯಭಿರಕ್ಷಣಾರ್ಥಂ\n     ರಂಗೇಶ್ವರಸ್ಯ ರಮಯಾ ವಿನಿವೇದ್ಯಮಾನೇ .\nಪಾರ್ಶ್ವೇ ಪರತ್ರ ಭವತೀ ಯದಿ ತತ್ರ ನಾಸೀತ್\n     ಪ್ರಾಯೇಣ ದೇವಿ ವದನಂ ಪರಿವರ್ತಿತಂ ಸ್ಯಾತ್ .. ೨೪.."
+        "roman_diacritics": "ārdrāparādhini jane'pyabhirakṣaṇārthaṃ\n     raṅgeśvarasya ramayā vinivedyamāne .\npārśve paratra bhavatī yadi tatra nāsīt\n     prāyeṇa devi vadanaṃ parivartitaṃ syāt .. 24..",
+        "devanagari": "आर्द्रापराधिनि जनेऽप्यभिरक्षणार्थं\n     रङ्गेश्वरस्य रमया विनिवेद्यमाने ।\nपार्श्वे परत्र भवती यदि तत्र नासीत्\n     प्रायेण देवि वदनं परिवर्तितं स्यात् ॥ २४॥",
+        "kannada": "ಆರ್ದ್ರಾಪರಾಧಿನಿ ಜನೇಽಪ್ಯಭಿರಕ್ಷಣಾರ್ಥಂ\n     ರಂಗೇಶ್ವರಸ್ಯ ರಮಯಾ ವಿನಿವೇದ್ಯಮಾನೇ .\nಪಾರ್ಶ್ವೇ ಪರತ್ರ ಭವತೀ ಯದಿ ತತ್ರ ನಾಸೀತ್\n     ಪ್ರಾಯೇಣ ದೇವಿ ವದನಂ ಪರಿವರ್ತಿತಂ ಸ್ಯಾತ್ .. ೨೪..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "gode guṇairapanayan praṇatāparādhān\n     bhrūkṣepa eva tava bhogarasānukūlaḥ .\nkarmānubandhi phaladānaratasya bhartuḥ\n     svātantryadurvyasanamarmabhidā nidānam .. 25..",
-        "sanskrit": "गोदे गुणैरपनयन् प्रणतापराधान्\n     भ्रूक्षेप एव तव भोगरसानुकूलः ।\nकर्मानुबन्धि फलदानरतस्य भर्तुः\n     स्वातन्त्र्यदुर्व्यसनमर्मभिदा निदानम् ॥ २५॥",
-        "kannada": "ಗೋದೇ ಗುಣೈರಪನಯನ್ ಪ್ರಣತಾಪರಾಧಾನ್\n     ಭ್ರೂಕ್ಷೇಪ ಏವ ತವ ಭೋಗರಸಾನುಕೂಲಃ .\nಕರ್ಮಾನುಬಂಧಿ ಫಲದಾನರತಸ್ಯ ಭರ್ತುಃ\n     ಸ್ವಾತಂತ್ರ್ಯದುರ್ವ್ಯಸನಮರ್ಮಭಿದಾ ನಿದಾನಂ .. ೨೫.."
+        "roman_diacritics": "gode guṇairapanayan praṇatāparādhān\n     bhrūkṣepa eva tava bhogarasānukūlaḥ .\nkarmānubandhi phaladānaratasya bhartuḥ\n     svātantryadurvyasanamarmabhidā nidānam .. 25..",
+        "devanagari": "गोदे गुणैरपनयन् प्रणतापराधान्\n     भ्रूक्षेप एव तव भोगरसानुकूलः ।\nकर्मानुबन्धि फलदानरतस्य भर्तुः\n     स्वातन्त्र्यदुर्व्यसनमर्मभिदा निदानम् ॥ २५॥",
+        "kannada": "ಗೋದೇ ಗುಣೈರಪನಯನ್ ಪ್ರಣತಾಪರಾಧಾನ್\n     ಭ್ರೂಕ್ಷೇಪ ಏವ ತವ ಭೋಗರಸಾನುಕೂಲಃ .\nಕರ್ಮಾನುಬಂಧಿ ಫಲದಾನರತಸ್ಯ ಭರ್ತುಃ\n     ಸ್ವಾತಂತ್ರ್ಯದುರ್ವ್ಯಸನಮರ್ಮಭಿದಾ ನಿದಾನಂ .. ೨೫..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "raṅge taṭidguṇavato ramayaiva gode\n     kṛṣṇāmbudasya ghaṭitāṃ kṛpayā suvṛṣṭyā .\ndaurgatyadurviṣavināśasudhānadīṃ tvāṃ\n     santaḥ prapadya śamayantyacireṇa tāpān .. 26..",
-        "sanskrit": "रङ्गे तटिद्गुणवतो रमयैव गोदे\n     कृष्णाम्बुदस्य घटितां कृपया सुवृष्ट्या ।\nदौर्गत्यदुर्विषविनाशसुधानदीं त्वां\n     सन्तः प्रपद्य शमयन्त्यचिरेण तापान् ॥ २६॥",
-        "kannada": "ರಂಗೇ ತಟಿದ್ಗುಣವತೋ ರಮಯೈವ ಗೋದೇ\n     ಕೃಷ್ಣಾಂಬುದಸ್ಯ ಘಟಿತಾಂ ಕೃಪಯಾ ಸುವೃಷ್ಟ್ಯಾ .\nದೌರ್ಗತ್ಯದುರ್ವಿಷವಿನಾಶಸುಧಾನದೀಂ ತ್ವಾಂ\n     ಸಂತಃ ಪ್ರಪದ್ಯ ಶಮಯಂತ್ಯಚಿರೇಣ ತಾಪಾನ್ .. ೨೬.."
+        "roman_diacritics": "raṅge taṭidguṇavato ramayaiva gode\n     kṛṣṇāmbudasya ghaṭitāṃ kṛpayā suvṛṣṭyā .\ndaurgatyadurviṣavināśasudhānadīṃ tvāṃ\n     santaḥ prapadya śamayantyacireṇa tāpān .. 26..",
+        "devanagari": "रङ्गे तटिद्गुणवतो रमयैव गोदे\n     कृष्णाम्बुदस्य घटितां कृपया सुवृष्ट्या ।\nदौर्गत्यदुर्विषविनाशसुधानदीं त्वां\n     सन्तः प्रपद्य शमयन्त्यचिरेण तापान् ॥ २६॥",
+        "kannada": "ರಂಗೇ ತಟಿದ್ಗುಣವತೋ ರಮಯೈವ ಗೋದೇ\n     ಕೃಷ್ಣಾಂಬುದಸ್ಯ ಘಟಿತಾಂ ಕೃಪಯಾ ಸುವೃಷ್ಟ್ಯಾ .\nದೌರ್ಗತ್ಯದುರ್ವಿಷವಿನಾಶಸುಧಾನದೀಂ ತ್ವಾಂ\n     ಸಂತಃ ಪ್ರಪದ್ಯ ಶಮಯಂತ್ಯಚಿರೇಣ ತಾಪಾನ್ .. ೨೬..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "jātāparādhamapi māmanukampya gode\n     goptrī yadi tvamasi yuktamidaṃ bhavatyāḥ .\nvātsalyanirbharatayā jananī kumāraṃ\n     stanyena vardhayati daṣṭapayodharā'pi .. 27..",
-        "sanskrit": "जातापराधमपि मामनुकम्प्य गोदे\n     गोप्त्री यदि त्वमसि युक्तमिदं भवत्याः ।\nवात्सल्यनिर्भरतया जननी कुमारं\n     स्तन्येन वर्धयति दष्टपयोधराऽपि ॥ २७॥",
-        "kannada": "ಜಾತಾಪರಾಧಮಪಿ ಮಾಮನುಕಂಪ್ಯ ಗೋದೇ\n     ಗೋಪ್ತ್ರೀ ಯದಿ ತ್ವಮಸಿ ಯುಕ್ತಮಿದಂ ಭವತ್ಯಾಃ .\nವಾತ್ಸಲ್ಯನಿರ್ಭರತಯಾ ಜನನೀ ಕುಮಾರಂ\n     ಸ್ತನ್ಯೇನ ವರ್ಧಯತಿ ದಷ್ಟಪಯೋಧರಾಽಪಿ .. ೨೭.."
+        "roman_diacritics": "jātāparādhamapi māmanukampya gode\n     goptrī yadi tvamasi yuktamidaṃ bhavatyāḥ .\nvātsalyanirbharatayā jananī kumāraṃ\n     stanyena vardhayati daṣṭapayodharā'pi .. 27..",
+        "devanagari": "जातापराधमपि मामनुकम्प्य गोदे\n     गोप्त्री यदि त्वमसि युक्तमिदं भवत्याः ।\nवात्सल्यनिर्भरतया जननी कुमारं\n     स्तन्येन वर्धयति दष्टपयोधराऽपि ॥ २७॥",
+        "kannada": "ಜಾತಾಪರಾಧಮಪಿ ಮಾಮನುಕಂಪ್ಯ ಗೋದೇ\n     ಗೋಪ್ತ್ರೀ ಯದಿ ತ್ವಮಸಿ ಯುಕ್ತಮಿದಂ ಭವತ್ಯಾಃ .\nವಾತ್ಸಲ್ಯನಿರ್ಭರತಯಾ ಜನನೀ ಕುಮಾರಂ\n     ಸ್ತನ್ಯೇನ ವರ್ಧಯತಿ ದಷ್ಟಪಯೋಧರಾಽಪಿ .. ೨೭..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "śatamakhamaṇinīlā cāru kalhārahastā\n     stanabharanamitāṅgī sāndravātsalyasindhuḥ .\nalakavinihitābhiḥ sragbharākṛṣṭanāthā\n     vilasatu hṛdi godā viṣṇucittātmajā naḥ .. 28..",
-        "sanskrit": "शतमखमणिनीला चारु कल्हारहस्ता\n     स्तनभरनमिताङ्गी सान्द्रवात्सल्यसिन्धुः ।\nअलकविनिहिताभिः स्रग्भराकृष्टनाथा\n     विलसतु हृदि गोदा विष्णुचित्तात्मजा नः ॥ २८॥",
-        "kannada": "ಶತಮಖಮಣಿನೀಲಾ ಚಾರು ಕಲ್ಹಾರಹಸ್ತಾ\n     ಸ್ತನಭರನಮಿತಾಂಗೀ ಸಾಂದ್ರವಾತ್ಸಲ್ಯಸಿಂಧುಃ .\nಅಲಕವಿನಿಹಿತಾಭಿಃ ಸ್ರಗ್ಭರಾಕೃಷ್ಟನಾಥಾ\n     ವಿಲಸತು ಹೃದಿ ಗೋದಾ ವಿಷ್ಣುಚಿತ್ತಾತ್ಮಜಾ ನಃ .. ೨೮.."
+        "roman_diacritics": "śatamakhamaṇinīlā cāru kalhārahastā\n     stanabharanamitāṅgī sāndravātsalyasindhuḥ .\nalakavinihitābhiḥ sragbharākṛṣṭanāthā\n     vilasatu hṛdi godā viṣṇucittātmajā naḥ .. 28..",
+        "devanagari": "शतमखमणिनीला चारु कल्हारहस्ता\n     स्तनभरनमिताङ्गी सान्द्रवात्सल्यसिन्धुः ।\nअलकविनिहिताभिः स्रग्भराकृष्टनाथा\n     विलसतु हृदि गोदा विष्णुचित्तात्मजा नः ॥ २८॥",
+        "kannada": "ಶತಮಖಮಣಿನೀಲಾ ಚಾರು ಕಲ್ಹಾರಹಸ್ತಾ\n     ಸ್ತನಭರನಮಿತಾಂಗೀ ಸಾಂದ್ರವಾತ್ಸಲ್ಯಸಿಂಧುಃ .\nಅಲಕವಿನಿಹಿತಾಭಿಃ ಸ್ರಗ್ಭರಾಕೃಷ್ಟನಾಥಾ\n     ವಿಲಸತು ಹೃದಿ ಗೋದಾ ವಿಷ್ಣುಚಿತ್ತಾತ್ಮಜಾ ನಃ .. ೨೮..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "iti vikasitabhakterutthitāṃ veṅkaṭeśāt\n     bahuguṇaramaṇīyāṃ vakti godāstutiṃ yaḥ .\nsa bhavati bahumānyaḥ śrīmato raṅgabhartuḥ\n     caraṇakamalasevāṃ śāśvatīmabhyupaiṣyan .. 29..",
-        "sanskrit": "इति विकसितभक्तेरुत्थितां वेङ्कटेशात्\n     बहुगुणरमणीयां वक्ति गोदास्तुतिं यः ।\nस भवति बहुमान्यः श्रीमतो रङ्गभर्तुः\n     चरणकमलसेवां शाश्वतीमभ्युपैष्यन् ॥ २९॥",
-        "kannada": "ಇತಿ ವಿಕಸಿತಭಕ್ತೇರುತ್ಥಿತಾಂ ವೇಂಕಟೇಶಾತ್\n     ಬಹುಗುಣರಮಣೀಯಾಂ ವಕ್ತಿ ಗೋದಾಸ್ತುತಿಂ ಯಃ .\nಸ ಭವತಿ ಬಹುಮಾನ್ಯಃ ಶ್ರೀಮತೋ ರಂಗಭರ್ತುಃ\n     ಚರಣಕಮಲಸೇವಾಂ ಶಾಶ್ವತೀಮಭ್ಯುಪೈಷ್ಯನ್ .. ೨೯.."
+        "roman_diacritics": "iti vikasitabhakterutthitāṃ veṅkaṭeśāt\n     bahuguṇaramaṇīyāṃ vakti godāstutiṃ yaḥ .\nsa bhavati bahumānyaḥ śrīmato raṅgabhartuḥ\n     caraṇakamalasevāṃ śāśvatīmabhyupaiṣyan .. 29..",
+        "devanagari": "इति विकसितभक्तेरुत्थितां वेङ्कटेशात्\n     बहुगुणरमणीयां वक्ति गोदास्तुतिं यः ।\nस भवति बहुमान्यः श्रीमतो रङ्गभर्तुः\n     चरणकमलसेवां शाश्वतीमभ्युपैष्यन् ॥ २९॥",
+        "kannada": "ಇತಿ ವಿಕಸಿತಭಕ್ತೇರುತ್ಥಿತಾಂ ವೇಂಕಟೇಶಾತ್\n     ಬಹುಗುಣರಮಣೀಯಾಂ ವಕ್ತಿ ಗೋದಾಸ್ತುತಿಂ ಯಃ .\nಸ ಭವತಿ ಬಹುಮಾನ್ಯಃ ಶ್ರೀಮತೋ ರಂಗಭರ್ತುಃ\n     ಚರಣಕಮಲಸೇವಾಂ ಶಾಶ್ವತೀಮಭ್ಯುಪೈಷ್ಯನ್ .. ೨೯..",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "iti śrīvedāntadeśikaviracitā godāstutiḥ samāptā .",
-        "sanskrit": "इति श्रीवेदान्तदेशिकविरचिता गोदास्तुतिः समाप्ता ।",
-        "kannada": "ಇತಿ ಶ್ರೀವೇದಾಂತದೇಶಿಕವಿರಚಿತಾ ಗೋದಾಸ್ತುತಿಃ ಸಮಾಪ್ತಾ ."
+        "roman_diacritics": "iti śrīvedāntadeśikaviracitā godāstutiḥ samāptā .",
+        "devanagari": "इति श्रीवेदान्तदेशिकविरचिता गोदास्तुतिः समाप्ता ।",
+        "kannada": "ಇತಿ ಶ್ರೀವೇದಾಂತದೇಶಿಕವಿರಚಿತಾ ಗೋದಾಸ್ತುತಿಃ ಸಮಾಪ್ತಾ .",
+        "telugu": "",
+        "tamil": ""
       }
     ],
     "meanings": [
       {
-        "english": "﻿1.Oh wish giving tree  in the garden of Joy  of Vishnu Chitha,\nWho  along with Rangaraja  looks like   the  harichandna tree  ,\nWho is real patience and in her  pity to others  she is like Goddess  Lakshmi  ,\nAs I do not  have any one to surrender , I  seek  Godha as my only   refuge.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "1.Oh wish giving tree  in the garden of Joy  of Vishnu Chitha,\nWho  along with Rangaraja  looks like   the  harichandna tree  ,\nWho is real patience and in her  pity to others  she is like Goddess  Lakshmi  ,\nAs I do not  have any one to surrender , I  seek  Godha as my only   refuge.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "2.Your   greatness   are beyond the understanding   of the Vedas,\nAnd so even one  aspect of your greatness  is beyond the  understanding  of other prayers,\nAnd Oh Godhe , because  of this  I am   keeping quiet ,\nBut   your  characters have  broken open the  gate of my silence.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "2.Your   greatness   are beyond the understanding   of the Vedas,\nAnd so even one  aspect of your greatness  is beyond the  understanding  of other prayers,\nAnd Oh Godhe , because  of this  I am   keeping quiet ,\nBut   your  characters have  broken open the  gate of my silence.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "3.Oh mother  Godha  ,  please give  me  the  power of sweet speech  ,\nWhich   is  made   according   to your   desire  ,\nWhich  is equal to the jingling sound of   your anklets  ,\nSo that   it would taste like  nectar to the ears  of your  dear Lord.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "3.Oh mother  Godha  ,  please give  me  the  power of sweet speech  ,\nWhich   is  made   according   to your   desire  ,\nWhich  is equal to the jingling sound of   your anklets  ,\nSo that   it would taste like  nectar to the ears  of your  dear Lord.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "4.Oh Godha  , You by giving  accounts of Krishna   gave us  the   experiences of  Yamuna ,\nAnd entering in  to that river   gave us   the deep  understanding  of your intellect  ,\nAnd   your kind glances   made   us  blossom forth   in to luster,\nAnd our words   flowered   like the nectar  like words  of poets.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "4.Oh Godha  , You by giving  accounts of Krishna   gave us  the   experiences of  Yamuna ,\nAnd entering in  to that river   gave us   the deep  understanding  of your intellect  ,\nAnd   your kind glances   made   us  blossom forth   in to luster,\nAnd our words   flowered   like the nectar  like words  of poets.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "5.You having taken    a vow  to do only actions not favoured,\nOh goddess  , this morning the lord   decided to show  his mercy,\nA s that commander is helpless  as  he was  tied  on his head  by whatever has been done,\nAnd also    your  voice sounding melodious   like the   sound  arising out of Veena.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "5.You having taken    a vow  to do only actions not favoured,\nOh goddess  , this morning the lord   decided to show  his mercy,\nA s that commander is helpless  as  he was  tied  on his head  by whatever has been done,\nAnd also    your  voice sounding melodious   like the   sound  arising out of Veena.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "6.With your   lips red like  waters of sona river , with  your  breasts like  Thungabhadra ,\nWith  your  flowing speech   like  the  swift  flow  of river Saraswathi,\nAnd with  your  compositions , purifying     like Viraja river of Vaikunta \nOh Goddess Godha   , you are gracious like  the river  Narmadha.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "6.With your   lips red like  waters of sona river , with  your  breasts like  Thungabhadra ,\nWith  your  flowing speech   like  the  swift  flow  of river Saraswathi,\nAnd with  your  compositions , purifying     like Viraja river of Vaikunta \nOh Goddess Godha   , you are gracious like  the river  Narmadha.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "7.The Vedas  declare    that the ant hills are  ears of the earth,\nAnd the great sage   poet    was born   out of them,\nOh Godha  , what  is wonderful   is    that  the  great works ,\nWhich arose   from your mouth  are like  divine  nectar .",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "7.The Vedas  declare    that the ant hills are  ears of the earth,\nAnd the great sage   poet    was born   out of them,\nOh Godha  , what  is wonderful   is    that  the  great works ,\nWhich arose   from your mouth  are like  divine  nectar .",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "8.Oh Godha  ,  you enjoyed   your lover as     your own\nBut   yours was   a sense of devotion   which you altered  in to a  feeling of love  ,\nBut your elders  filled their with   sentiments of love , expressed  their devotion,\nIn loud voices   and expounded their pain of separation    with Him.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "8.Oh Godha  ,  you enjoyed   your lover as     your own\nBut   yours was   a sense of devotion   which you altered  in to a  feeling of love  ,\nBut your elders  filled their with   sentiments of love , expressed  their devotion,\nIn loud voices   and expounded their pain of separation    with Him.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "9.Oh mother   you were  born  out of Vishnu Chitha( also mind of Vishnu),\nAnd like the nectar  made  the world live   you did it through your works,\nAnd those   who do penance your    form being similar   to the moon,\nAnd consider   you  as the one   who was born  along with  Goddess Lakshmi   like him.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "9.Oh mother   you were  born  out of Vishnu Chitha( also mind of Vishnu),\nAnd like the nectar  made  the world live   you did it through your works,\nAnd those   who do penance your    form being similar   to the moon,\nAnd consider   you  as the one   who was born  along with  Goddess Lakshmi   like him.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "10. Your father   had already attracted him by   honey like praises,\nAnd those hundreds of praises did not attract him much earlier,\nBut when he presented him with garlands worn by you  having your scent  ,\nHe rewarded him   a very  revered position  as he was greatly pleased.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "10. Your father   had already attracted him by   honey like praises,\nAnd those hundreds of praises did not attract him much earlier,\nBut when he presented him with garlands worn by you  having your scent  ,\nHe rewarded him   a very  revered position  as he was greatly pleased.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "11.The southerm direction has ripened   due to Pinyam (blessed deeds)  it got,\nDue to your  birth   oh Goddess   , due to your hallowed birth,\nAnd also due   to Lord of  Sri Rangam   seeing it with respect,\nEven he was   sleeping under  influence of Yoga b nidhra.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "11.The southerm direction has ripened   due to Pinyam (blessed deeds)  it got,\nDue to your  birth   oh Goddess   , due to your hallowed birth,\nAnd also due   to Lord of  Sri Rangam   seeing it with respect,\nEven he was   sleeping under  influence of Yoga b nidhra.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "12.Most probably oh Goddess because  of having connection to you,\nThe river Godavari   has  been called as   the sacred river of the world,\nAnd  the  rivers  like  Ganga had   to live  long time,\nIn that  to get the status of a  sacred river.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "12.Most probably oh Goddess because  of having connection to you,\nThe river Godavari   has  been called as   the sacred river of the world,\nAnd  the  rivers  like  Ganga had   to live  long time,\nIn that  to get the status of a  sacred river.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "13.Oh Godha  , how is if that this primeval man  ,\nSleeping on a snake   and riding  on a bird became your  chosen lord,\nAnd  by  the way your love   has   happened   properly,\nYour lady friends   would keep  on teasing you.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "13.Oh Godha  , how is if that this primeval man  ,\nSleeping on a snake   and riding  on a bird became your  chosen lord,\nAnd  by  the way your love   has   happened   properly,\nYour lady friends   would keep  on teasing you.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "14.Oh Goddess , thy lord  who though ruling  all over  the world  ,\nIs under   your control   as he  is infatuated   with you  ,\nPossibly  because he wears   the garland which you wore over  your head,\nIn to which all the bees   which were on his vaijayathi garland shifts.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "14.Oh Goddess , thy lord  who though ruling  all over  the world  ,\nIs under   your control   as he  is infatuated   with you  ,\nPossibly  because he wears   the garland which you wore over  your head,\nIn to which all the bees   which were on his vaijayathi garland shifts.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "15.Oh Godha  ,   though the Vaijyanthi garland of  your lord,\nIs always fresh  , always  caressing  his heart  ,\nPossessed of prettiness  and is of   great  quality ,\nThe garland of yours is worn  over  his  head  because of its superiority.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "15.Oh Godha  ,   though the Vaijyanthi garland of  your lord,\nIs always fresh  , always  caressing  his heart  ,\nPossessed of prettiness  and is of   great  quality ,\nThe garland of yours is worn  over  his  head  because of its superiority.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "16. The garland worn by    you were born  by the lord on his head,\nAnd the bees    are attracted   to the honey in that  garland  come to drink it  ,\nAnd they   themselves   produce a    humming tingling sound ,\nWhich sounds  like the  auspicious  music played for your wedding with him.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "16. The garland worn by    you were born  by the lord on his head,\nAnd the bees    are attracted   to the honey in that  garland  come to drink it  ,\nAnd they   themselves   produce a    humming tingling sound ,\nWhich sounds  like the  auspicious  music played for your wedding with him.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "17.The pollen from the  lotus  on his belly spreads  throughout   the world,\nAnd  so does the perfume from the  breasts of sandal of lakshmi  who is on your chest,\nAnd he also enjoys    the  divine fragrance of great  tamil works of his devotees,\nBut he seems to eagerly wait  for the garland given  by you that he wears on his head.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "17.The pollen from the  lotus  on his belly spreads  throughout   the world,\nAnd  so does the perfume from the  breasts of sandal of lakshmi  who is on your chest,\nAnd he also enjoys    the  divine fragrance of great  tamil works of his devotees,\nBut he seems to eagerly wait  for the garland given  by you that he wears on his head.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "18.He wears  with great  affection your upper cloth on his  head,\nAnd also  wears there the  garlands  that were  associated  by your lovely tresses,\nAnd Possibly oh Godha,  the  lord Ranga raja  increases  his auspiciousness  ,\nAnd gets   the   greatness  associated   with  luck and prosperity.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "18.He wears  with great  affection your upper cloth on his  head,\nAnd also  wears there the  garlands  that were  associated  by your lovely tresses,\nAnd Possibly oh Godha,  the  lord Ranga raja  increases  his auspiciousness  ,\nAnd gets   the   greatness  associated   with  luck and prosperity.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "19. The great  naturally created   head of the  Vedas   declare  ,\nThat   the head of your lord   is full of all sweet scets  ,\nAnd possibly this is due to    his wearing  afterwards  with great joy   the garlands,\nWhich once decorated  the    curly   hairs of your head.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "19. The great  naturally created   head of the  Vedas   declare  ,\nThat   the head of your lord   is full of all sweet scets  ,\nAnd possibly this is due to    his wearing  afterwards  with great joy   the garlands,\nWhich once decorated  the    curly   hairs of your head.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "20.Oh blessed one , the   father  of all  the universe   wears,\nOn  his head, the garland that you wore   earlier on your head,\nAnd  when you  glance at him    using your bee like blue  eyes\nIt appears as if    an addition ble garland has been laid on it out of respect.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "20.Oh blessed one , the   father  of all  the universe   wears,\nOn  his head, the garland that you wore   earlier on your head,\nAnd  when you  glance at him    using your bee like blue  eyes\nIt appears as if    an addition ble garland has been laid on it out of respect.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "21.Oh  lady earth , those  fortunate  ones of the three  worlds,\n Who with great   desire   watched  the exchange of garlands \nBetween you and Lord Ranganatha  during your wedding filled with love ,\nFill the earth   with sound  of debates  regarding your individual superiorities.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "21.Oh  lady earth , those  fortunate  ones of the three  worlds,\n Who with great   desire   watched  the exchange of garlands \nBetween you and Lord Ranganatha  during your wedding filled with love ,\nFill the earth   with sound  of debates  regarding your individual superiorities.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "22.Filled with green colour  of grass due to the reflection  of the luster of your body,\nAnd the golden yellow    colour of musk    from the body of Goddess Lakshmi,\nThe body    of enemy of Madhu shines like   the neck   of a peacock  and that luster ,\nConfers   all   auspiciousness  on your  devotees.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "22.Filled with green colour  of grass due to the reflection  of the luster of your body,\nAnd the golden yellow    colour of musk    from the body of Goddess Lakshmi,\nThe body    of enemy of Madhu shines like   the neck   of a peacock  and that luster ,\nConfers   all   auspiciousness  on your  devotees.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "23.Oh mother Manu and other    great  kings   ruled  this  world  ,\nFor a long time  only   because   of your grace ,when they worshipped   \nYour lord   along with you   and    goddess  Lakshmi,\nAccording   the rules with  flowers prescribed by Vedas.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "23.Oh mother Manu and other    great  kings   ruled  this  world  ,\nFor a long time  only   because   of your grace ,when they worshipped   \nYour lord   along with you   and    goddess  Lakshmi,\nAccording   the rules with  flowers prescribed by Vedas.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "24.When Goddess  Lakshmi  pleads   with  God Ranganatha ,\nFor pardoning    the trespassing   errors   committed by   the souls ,\nIf you were not there  pleading for them   when he   turns his head,\nPossiblly he   would not have turned  again  and acceded to requests of Lakshmi",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "24.When Goddess  Lakshmi  pleads   with  God Ranganatha ,\nFor pardoning    the trespassing   errors   committed by   the souls ,\nIf you were not there  pleading for them   when he   turns his head,\nPossiblly he   would not have turned  again  and acceded to requests of Lakshmi",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "25.Oh Godha when your lord   is about to punish  the erring souls .\nYou knit  your eye brows in such a way and make him melt in love  ,\nAnd the lord then instead   of punishing   them according to their karma ,\nAnd thus  make his  thought not  independent and save those   suffering   souls.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "25.Oh Godha when your lord   is about to punish  the erring souls .\nYou knit  your eye brows in such a way and make him melt in love  ,\nAnd the lord then instead   of punishing   them according to their karma ,\nAnd thus  make his  thought not  independent and save those   suffering   souls.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "26.Oh Godha ,  good virtuous  Lakshmi is the streak  of Lightning ,\nInside    the dark   rich rain   bearing cloud  called  Ranga,\nAnd you    are   the river of nectar   created by  it,\nWhich destroys   bad fate   and evils    and   stifles  ,\n The sorrow  to those   who worship   your peaceful feet.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "26.Oh Godha ,  good virtuous  Lakshmi is the streak  of Lightning ,\nInside    the dark   rich rain   bearing cloud  called  Ranga,\nAnd you    are   the river of nectar   created by  it,\nWhich destroys   bad fate   and evils    and   stifles  ,\n The sorrow  to those   who worship   your peaceful feet.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "27.Oh Godhaa, though I have commited many crimes  , you have been merciful to me,\nAs you are   my protector,  and I think  it is proper  for  a mother ,\nWho is filled with affection   to protect  the   boy   who ,\nBites her   breast   and  continue to give   milk to  him.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "27.Oh Godhaa, though I have commited many crimes  , you have been merciful to me,\nAs you are   my protector,  and I think  it is proper  for  a mother ,\nWho is filled with affection   to protect  the   boy   who ,\nBites her   breast   and  continue to give   milk to  him.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "28. Our  hearts   are  occupied   by Godha   who is daughter of Vishnu Chitha,\nWho holds the Indra neela gem in her hand , Who holds a pretty lotus  flower in other hand,\nWho is slightly bent because  of her heavy breasts, who being an ocean of  deep love ,\nWho wore   the garlands  on her head to see  weather   she was pretty enough  to her Lord.",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "28. Our  hearts   are  occupied   by Godha   who is daughter of Vishnu Chitha,\nWho holds the Indra neela gem in her hand , Who holds a pretty lotus  flower in other hand,\nWho is slightly bent because  of her heavy breasts, who being an ocean of  deep love ,\nWho wore   the garlands  on her head to see  weather   she was pretty enough  to her Lord.",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "29.This   which opened  like a flower  due to devotion of Venkatesa,\nIs  very  pretty with very many sweet characters  praising Godha   and if read,\nWould  get him  permanently  the   service of the  lotus like feet\nOf  The Lord Venkatesa   who is  her consort whom she respects",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "29.This   which opened  like a flower  due to devotion of Venkatesa,\nIs  very  pretty with very many sweet characters  praising Godha   and if read,\nWould  get him  permanently  the   service of the  lotus like feet\nOf  The Lord Venkatesa   who is  her consort whom she respects",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       },
       {
-        "english": "",
-        "sanskrit": "",
-        "kannada": ""
+        "roman_diacritics": "",
+        "devanagari": "",
+        "kannada": "",
+        "telugu": "",
+        "tamil": ""
       }
     ],
     "missing": {
-      "english": "Data not available",
-      "sanskrit": "सूचना उपलब्धा नास्ति",
-      "kannada": "ಮಾಹಿತಿ ಲಭ್ಯವಿಲ್ಲ"
+      "roman_diacritics": "Information will be added shortly",
+      "devanagari": "सूचनाः शीघ्रमेव योजिताः भविष्यन्ति",
+      "kannada": "ಮಾಹಿತಿಯನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಸೇರಿಸಲಾಗುವುದು",
+      "telugu": "సమాచారం త్వరలో జోడించబడుతుంది",
+      "tamil": "தகவல் விரைவில் சேர்க்கப்படும்"
     }
   }
 ]
