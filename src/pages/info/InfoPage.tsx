@@ -32,7 +32,7 @@ const languages = [
 ]
 
 const options = [
-  { value: 0, label: "Texts" },
+  { value: 0, label: "Scripts" },
   { value: 1, label: "Meanings" },
 ]
 
@@ -45,7 +45,7 @@ type Item = {
     telugu: string
     tamil: string
   }
-  texts: {
+  scripts: {
     devanagari: string
     roman_diacritics: string
     kannada: string
@@ -93,7 +93,7 @@ export default function InfoPage() {
 
   const filteredData =
     selectedOption.value === 0
-      ? selectedItem?.texts.map((text) => text[selectedLanguageKey])
+      ? selectedItem?.scripts.map((text) => text[selectedLanguageKey])
       : selectedItem?.meanings.map((meaning) => meaning[selectedLanguageKey])
 
   const displayedData = filteredData?.filter((item) =>

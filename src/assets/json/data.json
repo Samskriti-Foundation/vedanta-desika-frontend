@@ -2,17 +2,17 @@
   {
     "title": "goda-stuti",
     "names": {
-      "roman_diacritics": "godāstutiḥ | Goda Stuti",
+      "roman_diacritics": "godāstutiḥ | Godha Stuthi",
       "devanagari": "गोदास्तुतिः",
       "kannada": "ಗೋದಾಸ್ತುತಿಃ",
       "telugu": "telugu title",
       "tamil": "Tamil title"
     },
-    "texts": [
+    "scripts": [
       {
-        "roman_diacritics": "śrīviṣṇucittakulanandanakalpavallīṃ\n     śrīraṅgarājaharicandanayogadṛśyām .\nsākṣātkṣamāṃ karuṇayā kamalāmivānyāṃ\n     godāmananyaśaraṇaḥ śaraṇaṃ prapadye .. 1..",
-        "devanagari": "श्रीविष्णुचित्तकुलनन्दनकल्पवल्लीं\n     श्रीरङ्गराजहरिचन्दनयोगदृश्याम् ।\nसाक्षात्क्षमां करुणया कमलामिवान्यां\n     गोदामनन्यशरणः शरणं प्रपद्ये ॥ १॥",
-        "kannada": "ಶ್ರೀವಿಷ್ಣುಚಿತ್ತಕುಲನಂದನಕಲ್ಪವಲ್ಲೀಂ\n     ಶ್ರೀರಂಗರಾಜಹರಿಚಂದನಯೋಗದೃಶ್ಯಾಂ .\nಸಾಕ್ಷಾತ್ಕ್ಷಮಾಂ ಕರುಣಯಾ ಕಮಲಾಮಿವಾನ್ಯಾಂ\n     ಗೋದಾಮನನ್ಯಶರಣಃ ಶರಣಂ ಪ್ರಪದ್ಯೇ .. ೧..",
+        "roman_diacritics": "﻿śrīviṣṇucittakulanandanakalpavallīṃ\n     śrīraṅgarājaharicandanayogadṛśyām .\nsākṣātkṣamāṃ karuṇayā kamalāmivānyāṃ\n     godāmananyaśaraṇaḥ śaraṇaṃ prapadye .. 1..",
+        "devanagari": "﻿श्रीविष्णुचित्तकुलनन्दनकल्पवल्लीं\n     श्रीरङ्गराजहरिचन्दनयोगदृश्याम् ।\nसाक्षात्क्षमां करुणया कमलामिवान्यां\n     गोदामनन्यशरणः शरणं प्रपद्ये ॥ १॥",
+        "kannada": "﻿ಶ್ರೀವಿಷ್ಣುಚಿತ್ತಕುಲನಂದನಕಲ್ಪವಲ್ಲೀಂ\n     ಶ್ರೀರಂಗರಾಜಹರಿಚಂದನಯೋಗದೃಶ್ಯಾಂ .\nಸಾಕ್ಷಾತ್ಕ್ಷಮಾಂ ಕರುಣಯಾ ಕಮಲಾಮಿವಾನ್ಯಾಂ\n     ಗೋದಾಮನನ್ಯಶರಣಃ ಶರಣಂ ಪ್ರಪದ್ಯೇ .. ೧..",
         "telugu": "",
         "tamil": ""
       },
@@ -222,7 +222,7 @@
     ],
     "meanings": [
       {
-        "roman_diacritics": "1.Oh wish giving tree  in the garden of Joy  of Vishnu Chitha,\nWho  along with Rangaraja  looks like   the  harichandna tree  ,\nWho is real patience and in her  pity to others  she is like Goddess  Lakshmi  ,\nAs I do not  have any one to surrender , I  seek  Godha as my only   refuge.",
+        "roman_diacritics": "﻿1.Oh wish giving tree  in the garden of Joy  of Vishnu Chitha,\nWho  along with Rangaraja  looks like   the  harichandna tree  ,\nWho is real patience and in her  pity to others  she is like Goddess  Lakshmi  ,\nAs I do not  have any one to surrender , I  seek  Godha as my only   refuge.",
         "devanagari": "",
         "kannada": "",
         "telugu": "",
