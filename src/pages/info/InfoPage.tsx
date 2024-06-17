@@ -80,10 +80,10 @@ export default function InfoPage() {
   const [searchQuery, setSearchQuery] = useState("")
   const [selectedLanguage, setSelectedLanguage] = useState(languages[0])
   const [selectedOption, setSelectedOption] = useState(options[0])
-  const [selectedItem, setSelectedItem] = useState<Item>(data[0])
+  const [selectedItem, setSelectedItem] = useState<Item | undefined>()
 
   useEffect(() => {
-    const foundItem = data.find((item) => item.title === pageName) || data[0]
+    const foundItem = data.find((item) => item.title === pageName)
     setSelectedItem(foundItem)
   }, [pageName])
 
@@ -93,10 +93,10 @@ export default function InfoPage() {
 
   const filteredData =
     selectedOption.value === 0
-      ? selectedItem.texts.map((text) => text[selectedLanguageKey])
-      : selectedItem.meanings.map((meaning) => meaning[selectedLanguageKey])
+      ? selectedItem?.texts.map((text) => text[selectedLanguageKey])
+      : selectedItem?.meanings.map((meaning) => meaning[selectedLanguageKey])
 
-  const displayedData = filteredData.filter((item) =>
+  const displayedData = filteredData?.filter((item) =>
     item.includes(searchQuery)
   )
 
@@ -117,7 +117,7 @@ export default function InfoPage() {
         zIndex={10}
       >
         <Heading textAlign="center" color="white">
-          {selectedItem.names[selectedLanguageKey]}
+          {selectedItem?.names[selectedLanguageKey]}
         </Heading>
         <VStack maxW="md" mx="auto" gap={4} mt={4}>
           <InputGroup mx="auto">
@@ -184,12 +184,12 @@ export default function InfoPage() {
         </VStack>
       </Flex>
       <Flex gap="2" flexDirection="column" p="4" alignItems="center" zIndex={9}>
-        {displayedData.length > 0 ? (
-          displayedData.map((item, index) => (
+        {displayedData && displayedData.length > 0 ? (
+          displayedData?.map((item, index) => (
             <InfoTab
               key={index}
               text={item}
-              missing={selectedItem.missing[selectedLanguageKey]}
+              missing={selectedItem?.missing[selectedLanguageKey] as string}
             />
           ))
         ) : (
