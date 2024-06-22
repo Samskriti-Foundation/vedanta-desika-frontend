@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Ramanujacharya Portal is a comprehensive website developed by the Samskriti Foundation, Mysore, detailing the extensive works and teachings of Sri Vedanta Desika.
+The Vedanta Desika Portal is a comprehensive website developed by the Samskriti Foundation, Mysore, detailing the extensive works and teachings of Sri Vedanta Desika.
 
 ## Installation
 
