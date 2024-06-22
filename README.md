@@ -1,30 +1,39 @@
-# React + TypeScript + Vite
+# Ramanujacharya Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The Ramanujacharya Portal is a comprehensive website developed by the Samskriti Foundation, Mysore, detailing the extensive works and teachings of Sri Vedanta Desika.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
 
-## Expanding the ESLint configuration
+1. **Clone the Repository:**
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+   ```bash
+   git clone https://github.com/Samskriti-Foundation/vedanta-desika-frontend.git
+   ```
 
-- Configure the top-level `parserOptions` property like this:
+2. **Navigate to the project directory:**
+  
+    ```bash
+    cd vedanta-desika-frontend
+    ```
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+3. **Install Dependencies:**
+   
+    a. Install yarn if not already installed
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+    ```bash
+    npm i -g yarn
+    ```
+    
+    b. Install dependencies through yarn
+
+   ```bash
+   yarn
+   ```
+
+3. **Start server:**
+
+   ```bash
+   yarn dev
+   ```
