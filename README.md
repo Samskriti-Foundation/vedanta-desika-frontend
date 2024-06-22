@@ -1,4 +1,4 @@
-# Ramanujacharya Portal
+# Vedanta Desika Portal
 
 ## Overview
 
