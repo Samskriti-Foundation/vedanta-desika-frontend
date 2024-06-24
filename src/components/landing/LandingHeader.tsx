@@ -4,6 +4,11 @@ import centerImg from "../../assets/images/landing/header_center.png"
 import rightImg from "../../assets/images/landing/header_right.png"
 
 export default function LandingHeader() {
+  const handleRedirect = () => {
+    window.open("https://samskritifoundation.org/", "_blank")
+    // window.location.href = "https://samskritifoundation.org/" // to open in same page
+  }
+
   return (
     <Flex
       maxWidth="80%"
@@ -13,9 +18,15 @@ export default function LandingHeader() {
       color="white"
       fontWeight="bold"
     >
-      <Image src={leftImg} alt="logo" height="64px" />
-      <Image src={centerImg} alt="logo" height="64px" />
-      <Image src={rightImg} alt="logo" height="64px" />
+      <Image src={leftImg} alt="left-image" height="64px" />
+      <Image src={centerImg} alt="title" height="64px" />
+      <Image
+        src={rightImg}
+        alt="logo-sf"
+        height="64px"
+        onClick={handleRedirect}
+        cursor="pointer"
+      />
     </Flex>
   )
 }

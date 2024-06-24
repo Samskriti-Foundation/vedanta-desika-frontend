@@ -1,6 +1,6 @@
 import { Box, Image, keyframes } from "@chakra-ui/react"
-import vedanta from "../assets/images/vedanta_desika.png"
-import bgChakra from "../assets/images/bg_chakra.png"
+import vedanta from "../../assets/images/vedanta_desika.png"
+import bgChakra from "../../assets/images/bg_chakra.png"
 
 const rotate = keyframes`
   from { transform: rotate(0deg); }

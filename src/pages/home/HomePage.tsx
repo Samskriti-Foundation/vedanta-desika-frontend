@@ -1,7 +1,7 @@
 import Header from "../../components/home/Header"
 import Navbar from "../../components/home/Navbar"
 import TestTree from "../../components/tree/TestTree"
-import VedantaImage from "../../components/VedantaImage"
+import VedantaImage from "../../components/home/VedantaImage"
 import BaseLayout from "../../layouts/BaseLayout"
 import { Flex } from "@chakra-ui/react"
 
