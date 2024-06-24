@@ -19,7 +19,7 @@ export default function LandingPage() {
       <Image
         src={vedantaImg}
         alt="Vedanta Desika"
-        height={{ base: "400px", md: "700px" }}
+        height={{ base: "100vh", xl: "90vh" }}
         position="absolute"
         bottom="0"
       />
