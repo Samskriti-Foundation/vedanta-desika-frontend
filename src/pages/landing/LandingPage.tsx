@@ -1,4 +1,4 @@
-import { Box, Flex, Image } from "@chakra-ui/react"
+import { Box, Image } from "@chakra-ui/react"
 import landingBg from "../../assets/images/landing/background.png"
 import LandingHeader from "../../components/landing/LandingHeader"
 import vedantaImg from "../../assets/images/landing/vedanta_desika_full.png"
@@ -16,15 +16,21 @@ export default function LandingPage() {
       maxWidth="100vw"
     >
       <LandingHeader />
-      <Flex alignItems="center">
-        <Image src={vedantaImg} alt="Vedanta Desika" height="600px" />
-        <Image
-          src={title}
-          alt="Vedanta Desika Title"
-          height="250px"
-          mb="45px"
-        />
-      </Flex>
+      <Image
+        src={vedantaImg}
+        alt="Vedanta Desika"
+        height={{ base: "400px", md: "700px" }}
+        position="absolute"
+        bottom="0"
+      />
+      <Image
+        src={title}
+        alt="Vedanta Desika Title"
+        height="250px"
+        position="absolute"
+        left="50%"
+        top="25%"
+      />
       <Box position="absolute" bottom="100px" right="0">
         <EnterButton />
       </Box>

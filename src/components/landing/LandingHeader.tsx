@@ -17,9 +17,10 @@ export default function LandingHeader() {
       justifyContent="space-between"
       color="white"
       fontWeight="bold"
+      zIndex={9999}
     >
-      <Image src={leftImg} alt="left-image" height="64px" />
-      <Image src={centerImg} alt="title" height="64px" />
+      <Image src={leftImg} alt="left-image" height="64px" zIndex={9999} />
+      <Image src={centerImg} alt="title" height="64px" zIndex={9999} />
       <Image
         src={rightImg}
         alt="logo-sf"
