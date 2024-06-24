@@ -1,6 +1,6 @@
 import { Box, Image } from "@chakra-ui/react"
-import header from "../assets/images/header.png"
-import title from "../assets/images/title.png"
+import header from "../../assets/images/header.png"
+import title from "../../assets/images/title.png"
 
 export default function Header() {
   return (

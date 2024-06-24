@@ -1,5 +1,5 @@
 import { Box, Flex, Image, Link } from "@chakra-ui/react"
-import logo from "../assets/images/logo.png"
+import logo from "../../assets/images/logo.png"
 import { NavLink, useNavigate } from "react-router-dom"
 
 export default function Navbar() {
@@ -17,14 +17,14 @@ export default function Navbar() {
           <Image
             src={logo}
             alt="logo"
-            onClick={() => navigate("/")}
+            onClick={() => navigate("/home")}
             _hover={{ cursor: "pointer" }}
           />
         </Box>
         <Flex gap={4} fontSize="lg" fontWeight={"semibold"}>
           <Link
             as={NavLink}
-            to="/"
+            to="/home"
             _activeLink={{ color: "red.400" }}
             _hover={{ color: "red.500" }}
           >

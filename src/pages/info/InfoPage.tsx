@@ -18,10 +18,10 @@ import {
   Tab,
 } from "@chakra-ui/react"
 import data from "../../assets/json/data.json"
-import InfoTab from "../../components/InfoTab"
+import InfoTab from "../../components/info/InfoTab"
 import { useEffect, useState } from "react"
 import { ChevronDownIcon, Search } from "lucide-react"
-import Navbar from "../../components/Navbar"
+import Navbar from "../../components/home/Navbar"
 
 const languages = [
   { value: 0, label: "Devanagari" },

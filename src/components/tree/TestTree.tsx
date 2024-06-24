@@ -4,22 +4,12 @@
 import { useEffect, useRef, useState } from "react"
 import * as d3 from "d3"
 import "./tree.css"
-import defaultData from "../assets/json/works_vedanta_desika.json"
+import defaultData from "../../assets/json/works_vedanta_desika.json"
 
 export default function TestTree() {
   const svgRef = useRef(null)
 
   const [data, setData] = useState(defaultData)
-
-  // const handleFetchData = async () => {
-  //   const response = await fetch("http://127.0.0.1:8000/v1/nodes/2")
-  //   const data1 = await response.json()
-  //   setData(data1)
-  // }
-
-  // useEffect(() => {
-  //   handleFetchData()
-  // },[])
 
   useEffect(() => {
     const margin = { top: 10, right: 10, bottom: 10, left: 150 }
