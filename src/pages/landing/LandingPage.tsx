@@ -4,8 +4,18 @@ import LandingHeader from "../../components/landing/LandingHeader"
 import vedantaImg from "../../assets/images/landing/vedanta_desika_full.png"
 import title from "../../assets/images/landing/title.png"
 import EnterButton from "../../components/landing/EnterButton"
+import { useEffect, useRef } from "react"
+import LandingAudio from "../../assets/audio/vedanta_desika_landing.m4a"
 
 export default function LandingPage() {
+  const audioRef = useRef<HTMLAudioElement>(null)
+
+  useEffect(() => {
+    if (audioRef.current) {
+      audioRef.current.play()
+    }
+  }, [])
+
   return (
     <Box
       bgImage={`url(${landingBg})`}
@@ -16,6 +26,7 @@ export default function LandingPage() {
       maxWidth="100vw"
     >
       <LandingHeader />
+      <audio ref={audioRef} src={LandingAudio} autoPlay />
       <Image
         src={vedantaImg}
         alt="Vedanta Desika"
