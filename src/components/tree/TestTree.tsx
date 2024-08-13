@@ -44,6 +44,8 @@ export default function TestTree() {
       }
     }
 
+    root.children.forEach(collapse)
+
     const update = (source) => {
       const treeData = treeLayout(root)
 

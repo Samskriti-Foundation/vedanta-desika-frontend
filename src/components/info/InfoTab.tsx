@@ -10,8 +10,7 @@ import {
   Icon,
 } from "@chakra-ui/react"
 import { Clapperboard, Headphones, Type } from "lucide-react"
-
-import audioF from "../../assets/audio/goda_stuti_1.mp3"
+import AudioPlayer from "./AudioPlayer"
 
 const textWithNewlines = (text: string) => {
   return (
@@ -29,11 +28,14 @@ const textWithNewlines = (text: string) => {
 export default function InfoTab({
   text,
   missing,
+  pageName,
+  id,
 }: {
   text: string
   missing: string
+  pageName: string
+  id: number
 }) {
-  console.log(typeof text)
   return (
     <Box
       bg="white"
@@ -62,20 +64,18 @@ export default function InfoTab({
           </TabPanel>
           <TabPanel>
             <Box display="flex" justifyContent="center">
-              <audio controls>
-                <source src={audioF} type="audio/mp3" />
-              </audio>
+              <AudioPlayer pageName={pageName} id={id} />
             </Box>
           </TabPanel>
           <TabPanel>
             <Box display="flex" justifyContent="center">
-              <iframe
+              {/* <iframe
                 width="560"
                 height="315"
                 src="https://www.youtube.com/embed/KVdQ-VPiSbY"
                 title="Goda Stuti"
                 allowFullScreen
-              />
+              /> */}
             </Box>
           </TabPanel>
         </TabPanels>
